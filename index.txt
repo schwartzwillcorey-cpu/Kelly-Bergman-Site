@@ -1,0 +1,3107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script type='text/javascript' src='https://bkcfk5ger0hprncf.canva-hosted-embed.com/bcsg08xyGWfZHShI6httSjav8ifPw4mRaTXpOP4fpwKpKWgpBSfGry_vzmYgpcwGp-BeI50BLjiRmXnR7FydUw=='></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Enhanced SEO Meta Tags -->
+  <title>Kelly Mortgage - Texas Home Loans & Mortgage Expert | Licensed Loan Officer</title>
+  <meta name="description" content="Kelly, your trusted Texas mortgage expert with 7+ years experience. Get pre-approved fast for home loans, refinancing, VA, FHA & USDA loans. Free consultation - no credit check required to start." />
+  <meta name="keywords" content="texas mortgage loans, home loans texas, mortgage broker, refinancing, VA loans, FHA loans, USDA loans, first time home buyer, mortgage calculator, loan officer texas" />
+  
+  <!-- Enhanced Open Graph Tags -->
+  <meta property="og:title" content="Kelly Mortgage - Texas Home Loans & Mortgage Expert" />
+  <meta property="og:description" content="Get pre-approved fast with Kelly's personalized mortgage service. 7+ years experience, 500+ happy families. Licensed in Texas." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://kellymortgage.com" />
+  <meta property="og:image" content="https://kellymortgage.com/og-image.jpg" />
+  <meta property="og:site_name" content="Kelly Mortgage" />
+  <meta property="og:locale" content="en_US" />
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Kelly Mortgage - Texas Home Loans Expert" />
+  <meta name="twitter:description" content="Licensed Texas mortgage expert. Get pre-approved fast - no credit check to start!" />
+  <meta name="twitter:image" content="https://kellymortgage.com/og-image.jpg" />
+  
+  <!-- Theme Color -->
+  <meta name="theme-color" content="#000000" />
+  
+  <!-- Local Business Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MortgageLender",
+    "name": "Kelly Mortgage",
+    "description": "Licensed Texas mortgage loan officer specializing in home loans, refinancing, VA, FHA, and USDA loans",
+    "url": "https://kellymortgage.com",
+    "telephone": "(214) 945-5338"
+    "email": "kelly@chomeloans.com
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "TX",
+      "addressCountry": "US"
+    },
+    "areaServed": "Texas",
+    "serviceType": "Mortgage Lending",
+    "priceRange": "$$",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "reviewCount": "500"
+    }
+  }
+  </script>
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://kellymortgage.com" />
+  
+  <!-- Favicons -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+  
+  <!-- Preconnect for Performance -->
+  <link rel="preconnect" href="https://cdn.tailwindcss.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+  <!-- Google Fonts - Luxury Typography -->
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Calendly Widget -->
+  <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+  
+  <style>
+/* Luxury Brand Typography */
+.serif-display {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.sans-body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* Luxury Gradient Accents */
+.gradient-accent {
+  background: linear-gradient(135deg, #ec4899 0%, #14b8a6 100%);
+}
+
+.gradient-text-accent {
+  background: linear-gradient(135deg, #ec4899 0%, #14b8a6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-border {
+  position: relative;
+  background: white;
+  border: 2px solid transparent;
+}
+
+.gradient-border::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  padding: 2px;
+  background: linear-gradient(135deg, #ec4899, #14b8a6);
+  border-radius: inherit;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: xor;
+  -webkit-mask-composite: xor;
+}
+
+/* Cinematic Glassmorphism Effects */
+.glass-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 1rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+.glass-trust-badge {
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(16px);
+  border: 2px solid transparent;
+  border-radius: 9999px;
+  padding: 1rem 2rem;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  position: relative;
+  overflow: hidden;
+}
+
+.glass-trust-badge::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  padding: 2px;
+  background: linear-gradient(135deg, rgba(236, 72, 153, 0.6), rgba(20, 184, 166, 0.6));
+  border-radius: inherit;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: xor;
+  -webkit-mask-composite: xor;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.glass-trust-badge:hover::before {
+  opacity: 1;
+}
+
+.glass-trust-badge:hover {
+  background: rgba(0, 0, 0, 0.8);
+  transform: translateY(-4px);
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.3), 0 0 20px rgba(236, 72, 153, 0.2);
+}
+
+/* Luxury Button Styles */
+.btn-luxury-primary {
+  background: #000000;
+  color: white;
+  padding: 1rem 2.5rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  font-family: 'Playfair Display', Georgia, serif;
+  letter-spacing: 0.025em;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+  border: 2px solid transparent;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+}
+
+.btn-luxury-primary::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  padding: 2px;
+  background: linear-gradient(135deg, #ec4899, #14b8a6);
+  border-radius: inherit;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: xor;
+  -webkit-mask-composite: xor;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.btn-luxury-primary::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(236, 72, 153, 0.1), rgba(20, 184, 166, 0.1));
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.btn-luxury-primary:hover::before {
+  opacity: 1;
+}
+
+.btn-luxury-primary:hover::after {
+  opacity: 1;
+}
+
+.btn-luxury-primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.2), 0 0 30px rgba(236, 72, 153, 0.3);
+}
+
+.btn-luxury-secondary {
+  background: white;
+  color: #000000;
+  padding: 1rem 2.5rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  font-family: 'Playfair Display', Georgia, serif;
+  letter-spacing: 0.025em;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+  border: 2px solid #000000;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+}
+
+.btn-luxury-secondary::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  padding: 2px;
+  background: linear-gradient(135deg, #ec4899, #14b8a6);
+  border-radius: inherit;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: xor;
+  -webkit-mask-composite: xor;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.btn-luxury-secondary::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(236, 72, 153, 0.05), rgba(20, 184, 166, 0.05));
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.btn-luxury-secondary:hover::before {
+  opacity: 1;
+}
+
+.btn-luxury-secondary:hover::after {
+  opacity: 1;
+}
+
+.btn-luxury-secondary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.15), 0 0 30px rgba(20, 184, 166, 0.2);
+}
+
+/* Luxury Card Styles */
+.luxury-card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 1rem;
+  padding: 2rem;
+  transition: all 0.4s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.luxury-card::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  background: linear-gradient(135deg, #ec4899, #14b8a6);
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  z-index: -1;
+}
+
+.luxury-card:hover::before {
+  opacity: 0.1;
+}
+
+.luxury-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+  border-color: transparent;
+}
+
+/* Luxury Dividers */
+.luxury-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(236,72,153,0.2), rgba(20,184,166,0.2), transparent);
+  margin: 4rem 0;
+}
+
+/* Luxury Form Inputs */
+.luxury-input {
+  background: white;
+  border: 2px solid #e5e7eb;
+  color: #000000;
+  padding: 1rem 1.5rem;
+  border-radius: 0.75rem;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.luxury-input:focus {
+  outline: none;
+  border-color: #000000;
+  box-shadow: 0 0 0 4px rgba(0,0,0,0.05);
+}
+
+.luxury-input::placeholder {
+  color: #6b7280;
+  font-weight: 400;
+}
+
+/* Luxury Stars */
+.luxury-stars {
+  background: linear-gradient(135deg, #ec4899, #14b8a6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Luxury Mobile Sticky CTA */
+.mobile-sticky-cta {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  display: block;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+@media (min-width: 1024px) {
+  .mobile-sticky-cta { display: none; }
+}
+
+/* Luxury Animations */
+.fade-in-up {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.fade-in-up.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.slide-in-left {
+  opacity: 0;
+  transform: translateX(-30px);
+  transition: all 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.slide-in-left.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.slide-in-right {
+  opacity: 0;
+  transform: translateX(30px);
+  transition: all 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.slide-in-right.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* Luxury Calculator */
+.luxury-calculator {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 1.5rem;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.08);
+  position: relative;
+}
+
+.luxury-calculator::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(135deg, #ec4899, #14b8a6);
+  border-radius: inherit;
+  opacity: 0.1;
+  z-index: -1;
+}
+
+/* Luxury Trust Badges */
+.luxury-trust-badge {
+  background: rgba(0,0,0,0.02);
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 2rem;
+  padding: 0.75rem 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.luxury-trust-badge:hover {
+  background: rgba(0,0,0,0.04);
+  border-color: rgba(0,0,0,0.12);
+}
+
+/* Luxury Section Backgrounds */
+.luxury-bg-white {
+  background: #ffffff;
+}
+
+.luxury-bg-light {
+  background: #fafafa;
+}
+
+.luxury-bg-dark {
+  background: #1a1a1a;
+  color: white;
+}
+
+/* Luxury Testimonial Cards */
+.luxury-testimonial {
+  background: white;
+  border: 1px solid #f3f4f6;
+  border-radius: 1.5rem;
+  padding: 2rem;
+  transition: all 0.4s ease;
+  position: relative;
+}
+
+.luxury-testimonial::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(135deg, #ec4899, #14b8a6);
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  z-index: -1;
+}
+
+.luxury-testimonial:hover::before {
+  opacity: 0.05;
+}
+
+.luxury-testimonial:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(0,0,0,0.08);
+}
+
+/* Luxury FAQ Styles */
+.luxury-faq {
+  background: white;
+  border: 1px solid #f3f4f6;
+  border-radius: 1rem;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.luxury-faq-button {
+  width: 100%;
+  padding: 1.5rem 2rem;
+  text-align: left;
+  background: white;
+  border: none;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.luxury-faq-button:hover {
+  background: rgba(0,0,0,0.02);
+}
+
+.luxury-faq-icon {
+  background: linear-gradient(135deg, #ec4899, #14b8a6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-size: 1.5rem;
+  font-weight: bold;
+  transition: transform 0.3s ease;
+}
+
+.luxury-faq-content {
+  padding: 0 2rem 1.5rem 2rem;
+  border-top: 1px solid rgba(236,72,153,0.1);
+}
+
+/* Luxury Blog Cards */
+.luxury-blog-card {
+  background: white;
+  border: 1px solid #f3f4f6;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  transition: all 0.4s ease;
+  position: relative;
+}
+
+.luxury-blog-card::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(135deg, #ec4899, #14b8a6);
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  z-index: -1;
+}
+
+.luxury-blog-card:hover::before {
+  opacity: 0.05;
+}
+
+.luxury-blog-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+}
+
+/* Luxury Carousel Navigation */
+.luxury-carousel-btn {
+  width: 3rem;
+  height: 3rem;
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.luxury-carousel-btn:hover {
+  background: #000000;
+  color: white;
+  transform: scale(1.1);
+}
+
+/* Luxury Exit Popup */
+.luxury-exit-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.8);
+  backdrop-filter: blur(8px);
+  z-index: 9999;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 0.4s ease-out;
+}
+
+.luxury-exit-popup.show {
+  display: flex;
+}
+
+.luxury-exit-popup-content {
+  background: white;
+  border-radius: 1.5rem;
+  padding: 3rem;
+  max-width: 500px;
+  margin: 1rem;
+  position: relative;
+  animation: slideInUp 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 30px 60px rgba(0,0,0,0.3);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideInUp {
+  from { opacity: 0; transform: translateY(40px) scale(0.9); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Luxury Scrollbar */
+.luxury-scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.luxury-scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Luxury Typography Hierarchy */
+.luxury-h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  line-height: 1.1;
+  font-weight: 800;
+}
+
+.luxury-h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+.luxury-h3 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+.luxury-body {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+.luxury-body-large {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+/* Cinematic Video Styles */
+.cinematic-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -2;
+}
+
+.cinematic-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+
+/* Enhanced Responsive Adjustments */
+@media (max-width: 768px) {
+  .luxury-card {
+    padding: 1.5rem;
+    margin: 0 1rem;
+  }
+  
+  .luxury-testimonial {
+    padding: 1.5rem;
+  }
+  
+  .btn-luxury-primary,
+  .btn-luxury-secondary {
+    padding: 1.25rem 3rem;
+    font-size: 1.125rem;
+    min-height: 4rem;
+    border-radius: 9999px;
+    font-weight: 700;
+  }
+  
+  .luxury-input {
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+  }
+  
+  /* Enhanced mobile hero adjustments */
+  .luxury-h1 {
+    font-size: clamp(2rem, 8vw, 3rem);
+    line-height: 1.1;
+  }
+  
+  .luxury-h2 {
+    font-size: clamp(1.75rem, 6vw, 2.5rem);
+    line-height: 1.2;
+  }
+  
+  /* Pause video on mobile to save bandwidth */
+  .cinematic-video {
+    display: none;
+  }
+  
+  /* Improve mobile spacing */
+  .glass-trust-badge {
+    padding: 1rem 1.5rem;
+    font-size: 0.875rem;
+    border-radius: 9999px;
+    margin-bottom: 0.75rem;
+  }
+  
+  /* Mobile form improvements */
+  .luxury-calculator {
+    padding: 1.5rem;
+    margin: 0 1rem;
+  }
+}
+  </style>
+</head>
+<body class="sans-body antialiased luxury-bg-white text-gray-900">
+
+<!-- Skip to Content Link for Accessibility -->
+<a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 bg-black text-white px-4 py-2 rounded-lg font-semibold z-50 focus:z-[9999]">Skip to main content</a>
+
+<!-- Luxury Black Header -->
+<header class="bg-black border-b border-gray-800 sticky top-0 z-50 backdrop-blur-sm" role="banner">
+  <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" role="navigation" aria-label="Main navigation">
+    <div class="flex justify-between items-center py-6">
+      <!-- Luxury Logo -->
+      <div class="flex items-center space-x-4" itemscope itemtype="https://schema.org/Organization">
+        <div class="w-20 h-20">
+          <img 
+            src="TEST TEST/assets/img/KellyLG.jpg"
+            itemprop="logo"
+            loading="lazy"
+          
+           alt="Kelly Bergman Mortgage Logo" 
+            class="w-full h-full object-contain p-1"
+            onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+          />
+          <span class="text-black font-bold text-xl serif-display hidden" aria-hidden="true">K</span>
+        </div>
+        <div>
+          <h1 class="text-xl font-bold text-white serif-display" itemprop="name">Kelly Bergman</h1>
+          <p class="text-sm text-gray-300 sans-body" itemprop="description">NMLS #1786042 • Texas Home Loans</p>
+        </div>
+      </div>
+
+      <!-- Desktop Navigation -->
+      <div class="hidden md:flex items-center space-x-8">
+        <a href="#about" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" aria-label="Learn about Kelly">About</a>
+        <a href="#services" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" aria-label="View loan programs">Loan Programs</a>
+        <a href="#calculator" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" aria-label="Use mortgage calculator">Calculator</a>
+        <a href="#faq" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" aria-label="Frequently asked questions">FAQ</a>
+        <a href="#tips" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" aria-label="Home buying tips">Home Tips</a>
+        <a href="#reviews" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" aria-label="Client reviews">Reviews</a>
+        <a href="#lead" class="btn-luxury-primary sans-body" aria-label="Start your mortgage application">Begin Your Journey Home</a>
+      </div>
+
+      <!-- Mobile Menu Button -->
+      <button id="mobile-menu-btn" class="md:hidden text-gray-300 hover:text-white focus:text-white transition-colors" aria-label="Toggle mobile menu" aria-expanded="false">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Mobile Navigation -->
+    <div id="mobile-menu" class="md:hidden hidden pb-6" role="menu">
+      <div class="flex flex-col space-y-4">
+        <a href="#about" class="text-gray-300 hover:text-white transition-colors font-medium py-2 sans-body focus:text-white" role="menuitem">About</a>
+        <a href="#services" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" role="menuitem">Loan Programs</a>
+        <a href="#calculator" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" role="menuitem">Calculator</a>
+        <a href="#faq" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" role="menuitem">FAQ</a>
+        <a href="#tips" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" role="menuitem">Home Tips</a>
+        <a href="#reviews" class="text-gray-300 hover:text-white transition-colors font-medium sans-body focus:text-white" role="menuitem">Reviews</a>
+        <a href="#lead" class="btn-luxury-primary text-center sans-body focus:shadow-lg" role="menuitem">Begin Your Journey Home</a>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<!-- Cinematic Hero Section -->
+<section class="relative py-20 lg:py-32 overflow-hidden" role="banner">
+  <!-- Cinematic Video Background -->
+  <div class="absolute inset-0 z-0">
+    <video 
+      autoplay 
+      muted 
+      loop 
+      playsinline 
+      class="cinematic-video"
+      poster="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1920&h=1080&fit=crop&auto=format&q=80"
+    >
+      <source src="https://player.vimeo.com/external/434045526.sd.mp4?s=c27eecc69a27dbc4ff2b87d38afc35f1a9e7c02d&profile_id=165" type="video/mp4">
+    </video>
+    <!-- Fallback image for mobile - Luxury Texas home at dusk -->
+    <div class="absolute inset-0 bg-cover bg-center bg-no-repeat md:hidden" style="background-image: url('https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1920&h=1080&fit=crop&auto=format&q=80');"></div>
+    
+    <!-- Enhanced overlay for optimal text readability -->
+    <div class="absolute inset-0 bg-gradient-to-r from-black/70 via-black/45 to-black/55 z-[-1]"></div>
+    
+    <!-- Subtle American Flag Element -->
+    <div class="absolute top-8 right-8 opacity-20 hidden lg:block">
+      <img 
+        src="https://images.unsplash.com/photo-1484100356142-db6ab6244067?w=100&h=60&fit=crop&auto=format&q=80" 
+        alt="" 
+        class="w-16 h-10 object-cover rounded shadow-lg"
+        loading="lazy"
+      />
+    </div>
+  </div>
+  
+  <!-- Content overlay -->
+  <div class="relative z-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid lg:grid-cols-2 gap-16 items-center">
+        <!-- Left Column: Content -->
+        <div class="text-center lg:text-left">
+          <!-- Main Headline -->
+          <h1 class="serif-display luxury-h1 text-white mb-8">
+            <span class="block">Texas Mortgage Solutions</span>
+            <span class="block">with a Personal Touch of Luxury</span>
+            <span class="gradient-text-accent luxury-h3 block mt-4 sans-body font-semibold">VA • FHA • USDA • Conventional Loans</span>
+          </h1>
+
+          <!-- Credibility Line -->
+          <p class="luxury-body-large text-white mb-6 max-w-4xl lg:max-w-none font-semibold">
+            Fast pre-approvals, tailored programs, and expert guidance — helping families across DFW & East Texas move forward with confidence.
+          </p>
+          <p class="luxury-body text-gray-200 mb-10 max-w-3xl lg:max-w-none">
+            <span class="text-white font-semibold">Same-Day Pre-Approval</span> • <span class="text-white font-semibold">Boutique-Level Service</span> • <span class="text-white font-semibold">Stress-Free Experience</span>
+          </p>
+
+          <!-- CTA Buttons -->
+          <div class="flex flex-col sm:flex-row gap-6 justify-center lg:justify-start items-center mb-12">
+            <a href="#lead" class="btn-luxury-primary text-lg px-12 py-6 shadow-2xl rounded-full" aria-label="Start your mortgage application">
+              Start Your Application
+            </a>
+            <a href="tel:+15551234567" class="btn-luxury-secondary text-lg px-12 py-6 rounded-full" aria-label="Schedule a call with Kelly">
+              Schedule a Call
+            </a>
+          </div>
+
+          <!-- Trust Indicators with Enhanced Glassmorphism -->
+          <div class="flex flex-col sm:flex-row flex-wrap justify-center lg:justify-start items-center gap-4 text-white">
+            <div class="glass-trust-badge flex items-center gap-3 px-8 py-4 rounded-full">
+              <span class="text-white font-bold text-lg" aria-hidden="true">✓</span>
+              <span class="sans-body font-semibold">Licensed in Texas</span>
+            </div>
+            <div class="glass-trust-badge flex items-center gap-3 px-8 py-4 rounded-full">
+              <span class="text-white font-bold text-lg" aria-hidden="true">✓</span>
+              <span class="sans-body font-semibold">7+ Years of Expertise</span>
+            </div>
+            <div class="glass-trust-badge flex items-center gap-3 px-8 py-4 rounded-full">
+              <span class="text-white font-bold text-lg" aria-hidden="true">✓</span>
+              <span class="sans-body font-semibold">Trusted by Families Across Texas</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Column: Kelly's Photo -->
+        <div class="flex justify-center lg:justify-end">
+          <div class="relative">
+            <!-- Subtle glow effect behind photo -->
+            <div class="absolute inset-0 bg-gradient-to-br from-pink-500/20 to-teal-500/20 rounded-3xl blur-xl transform scale-110"></div>
+            <div class="relative w-80 h-80 lg:w-96 lg:h-96 rounded-3xl overflow-hidden border-2 border-white/30 shadow-2xl backdrop-blur-sm">
+              <img 
+                src="TEST TEST/assets/img/KellyHeadshot.jpg"
+                alt="Kelly Bergman - Licensed Texas Mortgage Loan Officer" 
+                width="384" 
+                height="384" 
+                loading="eager"
+                class="w-full h-full object-cover"
+                onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+              />
+              <div class="w-full h-full bg-gray-800 border-2 border-white/30 flex items-center justify-center shadow-2xl" style="display: none;">
+                <div class="text-center">
+                  <div class="w-32 h-32 bg-white rounded-full mx-auto mb-4 flex items-center justify-center shadow-lg">
+                    <span class="text-black text-4xl font-bold serif-display">KB</span>
+                  </div>
+                  <p class="text-white text-lg font-semibold serif-display">Kelly Bergman</p>
+                  <p class="text-gray-300 text-sm sans-body">Your Mortgage Expert</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Premium Stat Bubbles -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl mx-auto mt-20">
+        <div class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-6 py-8 text-center shadow-2xl hover:scale-105 transition-transform duration-300">
+          <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-teal-500 rounded-full flex items-center justify-center mx-auto mb-4">
+            <span class="text-white text-xl font-bold" aria-hidden="true">⚡</span>
+          </div>
+          <div class="text-2xl font-bold text-white serif-display mb-1">24hr</div>
+          <div class="text-gray-300 text-sm sans-body">Avg Response</div>
+        </div>
+        
+        <div class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-6 py-8 text-center shadow-2xl hover:scale-105 transition-transform duration-300">
+          <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-teal-500 rounded-full flex items-center justify-center mx-auto mb-4">
+            <span class="text-white text-xl font-bold" aria-hidden="true">🏆</span>
+          </div>
+          <div class="text-2xl font-bold text-white serif-display mb-1">7
+            +</div>
+          <div class="text-gray-300 text-sm sans-body">Years Experience</div>
+        </div>
+        
+        <div class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-6 py-8 text-center shadow-2xl hover:scale-105 transition-transform duration-300">
+          <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-teal-500 rounded-full flex items-center justify-center mx-auto mb-4">
+            <span class="text-white text-xl font-bold" aria-hidden="true">✅</span>
+          </div>
+          <div class="text-2xl font-bold text-white serif-display mb-1">500+</div>
+          <div class="text-gray-300 text-sm sans-body">Successful Closings</div>
+        </div>
+        
+        <div class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-6 py-8 text-center shadow-2xl hover:scale-105 transition-transform duration-300">
+          <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-teal-500 rounded-full flex items-center justify-center mx-auto mb-4">
+            <span class="text-white text-xl font-bold" aria-hidden="true">A+</span>
+          </div>
+          <div class="text-2xl font-bold text-white serif-display mb-1">A+</div>
+          <div class="text-gray-300 text-sm sans-body">BBB Rating</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- Luxury Divider -->
+<div class="luxury-divider"></div>
+
+<!-- Trust/Human Elements Section -->
+<section class="relative py-20 overflow-hidden">
+  <!-- Subtle gradient background -->
+  <div class="absolute inset-0 bg-gradient-to-br from-gray-50 via-white to-pink-50/20"></div>
+  <div class="relative z-10">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-16">
+      <h2 class="serif-display luxury-h2 text-gray-900 mb-6">
+        <span class="gradient-text-accent">Why Texas Families Trust Kelly Bergman</span>
+      </h2>
+      <p class="luxury-body-large text-gray-600 max-w-3xl mx-auto">
+        Experience personalized service and local expertise from a trusted DFW mortgage professional. Direct access to your loan officer throughout the entire process.
+      </p>
+    </div>
+
+    <!-- Trust Badges Grid -->
+    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
+      <!-- Fast -->
+      <div class="luxury-card text-center">
+        <div class="w-16 h-16 bg-black rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-sm">
+          <span class="text-white text-2xl" aria-hidden="true">⚡</span>
+        </div>
+        <h3 class="serif-display text-xl font-bold text-gray-900 mb-3">Fast Pre-Approval Process</h3>
+        <p class="sans-body text-gray-600">Receive your pre-approval letter within hours. Shop with confidence and submit competitive offers in today's market.</p>
+      </div>
+
+      <!-- Local -->
+      <div class="luxury-card text-center">
+        <div class="w-16 h-16 bg-black rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-sm">
+          <span class="text-white text-2xl" aria-hidden="true">🏠</span>
+        </div>
+        <h3 class="serif-display text-xl font-bold text-gray-900 mb-3">Local Market Expertise</h3>
+        <p class="sans-body text-gray-600">Deep knowledge of DFW and East Texas markets, neighborhoods, and lending requirements. Your advantage in securing the right loan.</p>
+      </div>
+
+      <!-- Stress-Free -->
+      <div class="luxury-card text-center">
+        <div class="w-16 h-16 bg-black rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-sm">
+          <span class="text-white text-2xl" aria-hidden="true">😌</span>
+        </div>
+        <h3 class="serif-display text-xl font-bold text-gray-900 mb-3">Transparent Process</h3>
+        <p class="sans-body text-gray-600">Clear communication and honest guidance throughout your loan process. No surprises, just straightforward mortgage solutions.</p>
+      </div>
+
+      <!-- Experienced -->
+      <div class="luxury-card text-center">
+        <div class="w-16 h-16 bg-black rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-sm">
+          <span class="text-white text-2xl" aria-hidden="true">🎯</span>
+        </div>
+        <h3 class="serif-display text-xl font-bold text-gray-900 mb-3">Proven Results</h3>
+        <p class="sans-body text-gray-600">Over 500 successful closings with Texas families. Consistent 5-star reviews and on-time closings you can count on.</p>
+      </div>
+    </div>
+
+    <!-- Loan Type Icons -->
+    <div class="luxury-card bg-gray-50 border-gray-100">
+      <div class="text-center mb-8">
+        <h3 class="serif-display text-2xl font-bold text-gray-900 mb-4">Texas Home Loan Programs</h3>
+        <p class="sans-body text-gray-600">From first-time buyers to seasoned investors, I'll match you with the perfect loan program</p>
+      </div>
+      
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <!-- VA Loans -->
+        <div class="text-center">
+          <div class="w-20 h-20 bg-black rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-sm">
+            <span class="text-white text-2xl font-bold serif-display">VA</span>
+          </div>
+          <h4 class="serif-display text-lg font-semibold text-gray-900 mb-2">VA Loans</h4>
+          <p class="sans-body text-sm text-gray-600">$0 down for veterans</p>
+        </div>
+
+        <!-- FHA Loans -->
+        <div class="text-center">
+          <div class="w-20 h-20 bg-black rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-sm">
+            <span class="text-white text-2xl font-bold serif-display">FHA</span>
+          </div>
+          <h4 class="serif-display text-lg font-semibold text-gray-900 mb-2">FHA Loans</h4>
+          <p class="sans-body text-sm text-gray-600">3.5% down payment</p>
+        </div>
+
+        <!-- USDA Loans -->
+        <div class="text-center">
+          <div class="w-20 h-20 bg-black rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-sm">
+            <span class="text-white text-xl font-bold serif-display">USDA</span>
+          </div>
+          <h4 class="serif-display text-lg font-semibold text-gray-900 mb-2">USDA Loans</h4>
+          <p class="sans-body text-sm text-gray-600">Rural area financing</p>
+        </div>
+
+        <!-- Conventional -->
+        <div class="text-center">
+          <div class="w-20 h-20 bg-black rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-sm">
+            <span class="text-white text-lg font-bold serif-display">CONV</span>
+          </div>
+          <h4 class="serif-display text-lg font-semibold text-gray-900 mb-2">Conventional</h4>
+          <p class="sans-body text-sm text-gray-600">Traditional financing</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- Lead Capture Form -->
+<section id="lead" class="luxury-bg-white py-24" role="main">
+  <div id="main-content"></div>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-12">
+      <h2 class="serif-display luxury-h2 text-gray-900 mb-6">
+        Start Your Pre-Approval Process — No Credit Impact
+      </h2>
+      <p class="luxury-body-large text-gray-600 max-w-2xl mx-auto mb-6">
+        Complete this secure form to begin your mortgage pre-approval. Kelly will review your information and provide personalized loan options and competitive rates.
+      </p>
+
+      <!-- Enhanced Trust Badges -->
+      <div class="bg-gradient-to-r from-green-50 to-emerald-50 border-2 border-green-200 rounded-2xl p-6 max-w-2xl mx-auto luxury-trust-badge mb-6 shadow-lg">
+        <p class="text-green-800 font-bold text-center flex items-center justify-center gap-3 sans-body text-lg">
+          <span class="text-2xl" aria-hidden="true">🛡️</span>
+          Secure Application — No impact to your credit score
+        </p>
+      </div>
+      <div class="bg-gradient-to-r from-yellow-50 to-amber-50 border-2 border-yellow-200 rounded-2xl p-6 max-w-2xl mx-auto luxury-trust-badge shadow-lg">
+        <p class="text-yellow-800 font-bold text-center flex items-center justify-center gap-3 sans-body text-lg">
+          <span class="text-2xl animate-pulse" aria-hidden="true">⚡</span>
+          Complimentary consultation — Response within 24 hours
+        </p>
+      </div>
+    </div>
+
+    <div class="luxury-card shadow-xl">
+      <form
+        id="leadForm"
+        action="https://script.google.com/macros/s/AKfycbwAbkGQ-RKUcu2ycZRbU0We0-UrhZl_gPWoz0R-ftiTqTTxP28naAHhV81LllGx_tlH8g/exec"
+        method="POST"
+        class="space-y-8"
+        novalidate
+      >
+        <!-- Hidden tracking fields -->
+        <input type="hidden" name="source" value="website-lead">
+        <input type="hidden" name="page_url" value="">
+        <input type="hidden" name="timestamp" value="">
+
+        <!-- Personal Information -->
+        <fieldset class="border-b border-gray-100 pb-8">
+          <legend class="serif-display text-2xl font-bold text-gray-900 mb-6">Personal Information</legend>
+          <div class="grid md:grid-cols-2 gap-6">
+            <div>
+              <label for="lead-name" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Full Name *</label>
+              <input
+                id="lead-name"
+                name="name"
+                type="text"
+                required
+                autocomplete="name"
+                class="w-full luxury-input sans-body"
+                placeholder="Enter your full name"
+                aria-describedby="lead-name-help"
+              />
+              <div id="lead-name-help" class="sr-only">Enter your full legal name as it appears on your ID</div>
+            </div>
+
+            <div>
+              <label for="lead-email" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Email Address *</label>
+              <input
+                id="lead-email"
+                name="email"
+                type="email"
+                required
+                autocomplete="email"
+                class="w-full luxury-input sans-body"
+                placeholder="your.email@example.com"
+                aria-describedby="lead-email-help"
+              />
+              <div id="lead-email-help" class="sr-only">We'll use this email to send you loan updates and documents</div>
+            </div>
+
+            <div class="md:col-span-2">
+              <label for="lead-phone" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Phone Number *</label>
+              <input
+                id="lead-phone"
+                name="phone"
+                type="tel"
+                required
+                autocomplete="tel"
+                class="w-full luxury-input sans-body"
+                placeholder="(214) 945-5338"
+                aria-describedby="lead-phone-help"
+              />
+              <div id="lead-phone-help" class="sr-only">Primary phone number where we can reach you during business hours</div>
+            </div>
+          </div>
+        </fieldset>
+
+        <!-- Loan Details -->
+        <fieldset class="border-b border-gray-100 pb-8">
+          <legend class="serif-display text-2xl font-bold text-gray-900 mb-6">Loan Details</legend>
+          <div class="grid md:grid-cols-2 gap-6">
+            <div>
+              <label for="lead-purpose" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Loan Type</label>
+              <select
+                id="lead-purpose"
+                name="purpose"
+                class="w-full luxury-input sans-body"
+              >
+                <option value="">Select loan type</option>
+                <option value="Purchase">Purchase</option>
+                <option value="Refinance">Refinance</option>
+                <option value="VA">VA Loan</option>
+                <option value="FHA">FHA Loan</option>
+                <option value="USDA">USDA Loan</option>
+                <option value="Conventional">Conventional</option>
+              </select>
+            </div>
+
+            <div>
+              <label for="lead-price" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Home Price Range</label>
+              <select
+                id="lead-price"
+                name="homePrice"
+                class="w-full luxury-input sans-body"
+              >
+                <option value="">Select price range</option>
+                <option value="Under $200k">Under $200,000</option>
+                <option value="$200k - $300k">$200,000 – $300,000</option>
+                <option value="$300k - $400k">$300,000 – $400,000</option>
+                <option value="$400k - $500k">$400,000 – $500,000</option>
+                <option value="$500k - $750k">$500,000 – $750,000</option>
+                <option value="Over $750k">Over $750,000</option>
+              </select>
+            </div>
+
+            <div>
+              <label for="lead-down" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Down Payment Amount</label>
+              <input
+                id="lead-down"
+                name="downPayment"
+                type="text"
+                class="w-full luxury-input sans-body"
+                placeholder="e.g., $50,000 or 20%"
+              />
+            </div>
+
+            <div>
+              <label for="lead-credit" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Credit Score Range</label>
+              <select
+                id="lead-credit"
+                name="creditScore"
+                class="w-full luxury-input sans-body"
+              >
+                <option value="">Select credit score range</option>
+                <option value="Excellent (740+)">Excellent (740+)</option>
+                <option value="Good (670-739)">Good (670–739)</option>
+                <option value="Fair (580-669)">Fair (580–669)</option>
+                <option value="Poor (Below 580)">Poor (Below 580)</option>
+                <option value="Not sure">Not sure</option>
+              </select>
+            </div>
+          </div>
+        </fieldset>
+
+        <!-- Timeline + Comments -->
+        <div class="space-y-6">
+          <div>
+            <label for="lead-timeline" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Timeline</label>
+            <select
+              id="lead-timeline"
+              name="timeline"
+              class="w-full luxury-input sans-body"
+            >
+              <option value="">Select your timeline</option>
+              <option value="ASAP">ASAP</option>
+              <option value="Within 30 days">Within 30 days</option>
+              <option value="1-3 months">1–3 months</option>
+              <option value="3-6 months">3–6 months</option>
+              <option value="6+ months">6+ months</option>
+              <option value="Just exploring">Just exploring</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="lead-comments" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Additional Comments</label>
+            <textarea
+              id="lead-comments"
+              name="comments"
+              rows="4"
+              class="w-full luxury-input sans-body resize-none"
+              placeholder="Tell us about your goals, questions, or any specific requirements..."
+            ></textarea>
+          </div>
+        </div>
+
+        <!-- Enhanced Submit Button -->
+        <div class="pt-8">
+          <button
+            type="submit"
+            class="w-full btn-luxury-primary text-xl py-6 sans-body shadow-2xl transform hover:scale-[1.02] transition-all duration-300"
+            aria-describedby="submit-help"
+          >
+            🏠 Start My Pre-Approval Process
+          </button>
+          <div id="submit-help" class="sr-only">Submit your information to receive a free mortgage consultation from Kelly</div>
+          
+          <!-- TCPA Consent Notice -->
+          <p class="text-xs text-gray-500 mt-4 text-center leading-relaxed sans-body">
+            By submitting this form, you consent to receive calls and text messages from Kelly Mortgage at the number provided, including marketing messages sent via automated technology. Consent is not required to purchase services. Message and data rates may apply. Reply STOP to opt out.
+          </p>
+        </div>
+
+        <!-- Form Messages -->
+        <div id="formMessage" class="mt-6 text-center hidden" role="alert" aria-live="polite"></div>
+      </form>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- Luxury Divider -->
+<div class="luxury-divider"></div>
+
+<!-- Services Section -->
+<section id="services" class="relative py-24 overflow-hidden">
+  <!-- Subtle gradient background -->
+  <div class="absolute inset-0 bg-gradient-to-br from-teal-50/30 via-white to-gray-50"></div>
+  <div class="relative z-10">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Section Header -->
+    <div class="text-center mb-16">
+      <h2 class="serif-display luxury-h2 text-gray-900 mb-6">
+        <span class="gradient-text-accent">Comprehensive Mortgage Solutions</span>
+        <span class="block text-gray-900">for Texas Homebuyers</span>
+      </h2>
+      <p class="luxury-body-large text-gray-600 max-w-3xl mx-auto">
+        From first-time homebuyers to seasoned investors, we offer a complete range of loan programs designed to meet your unique financial goals and homeownership needs.
+      </p>
+    </div>
+
+    <!-- Loan Types Grid -->
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-20">
+      <!-- Purchase Loans -->
+      <article class="luxury-card">
+        <div class="text-4xl mb-4" aria-hidden="true">🏠</div>
+        <h3 class="serif-display text-2xl font-bold text-gray-900 mb-4">Home Purchase Loans</h3>
+        <p class="sans-body text-gray-600 mb-6">Secure competitive rates and fast pre-approval for your Texas home purchase. Expert guidance through every step of the buying process.</p>
+        <ul class="space-y-2 text-gray-600 sans-body">
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>First-time buyer programs with down payment assistance</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Conventional loans with as little as 3% down</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Jumbo loans for luxury Texas properties</span>
+          </li>
+        </ul>
+      </article>
+
+      <!-- Refinancing -->
+      <article class="luxury-card">
+        <div class="text-4xl mb-4" aria-hidden="true">🔄</div>
+        <h3 class="serif-display text-2xl font-bold text-gray-900 mb-4">Refinance Solutions</h3>
+        <p class="sans-body text-gray-600 mb-6">Lower your monthly payment, eliminate PMI, or access your home's equity. Comprehensive analysis to maximize your savings potential.</p>
+        <ul class="space-y-2 text-gray-600 sans-body">
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Rate & term refinance to lower payments</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Cash-out refinance for home improvements</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>VA streamline refinance (IRRRL)</span>
+          </li>
+        </ul>
+      </article>
+
+      <!-- VA Loans -->
+      <article class="luxury-card">
+        <div class="text-4xl mb-4" aria-hidden="true">🇺🇸</div>
+        <h3 class="serif-display text-2xl font-bold text-gray-900 mb-4">VA Loans</h3>
+        <p class="sans-body text-gray-600 mb-6">Exclusive benefits for veterans and active military. VA loans offer exceptional terms with no down payment required and competitive rates.</p>
+        <ul class="space-y-2 text-gray-600 sans-body">
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>$0 down payment—100% financing available</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>No PMI required—save hundreds monthly</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Below-market interest rates</span>
+          </li>
+        </ul>
+      </article>
+
+      <!-- FHA Loans -->
+      <article class="luxury-card">
+        <div class="text-4xl mb-4" aria-hidden="true">🏛️</div>
+        <h3 class="serif-display text-2xl font-bold text-gray-900 mb-4">FHA Loans</h3>
+        <p class="sans-body text-gray-600 mb-6">Accessible homeownership for first-time buyers and borrowers with flexible credit requirements. Low down payment options available.</p>
+        <ul class="space-y-2 text-gray-600 sans-body">
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Just 3.5% down payment required</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Credit scores as low as 580 accepted</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Down payment gifts from family allowed</span>
+          </li>
+        </ul>
+      </article>
+
+      <!-- USDA Loans -->
+      <article class="luxury-card">
+        <div class="text-4xl mb-4" aria-hidden="true">🌾</div>
+        <h3 class="serif-display text-2xl font-bold text-gray-900 mb-4">USDA Home Loans</h3>
+        <p class="sans-body text-gray-600 mb-6">Looking in rural or suburban East Texas? USDA loans offer 100% financing for eligible areas—you might be surprised what qualifies!</p>
+        <ul class="space-y-2 text-gray-600 sans-body">
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>$0 down payment—100% financing</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Below-market interest rates</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Many suburban Texas areas qualify</span>
+          </li>
+        </ul>
+      </article>
+
+      <!-- Investment Properties -->
+      <article class="luxury-card">
+        <div class="text-4xl mb-4" aria-hidden="true">🏢</div>
+        <h3 class="serif-display text-2xl font-bold text-gray-900 mb-4">Investment Property Loans</h3>
+        <p class="sans-body text-gray-600 mb-6">Building wealth through Texas real estate? I specialize in investor financing and understand the unique challenges of rental property loans.</p>
+        <ul class="space-y-2 text-gray-600 sans-body">
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Single-family rental property financing</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Portfolio lending for multiple properties</span>
+          </li>
+          <li class="flex items-center gap-2">
+            <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+            <span>Fix & flip construction loans</span>
+          </li>
+        </ul>
+      </article>
+    </div>
+
+    <!-- Process Steps -->
+    <div class="border-t border-gray-200 pt-20">
+      <div class="text-center mb-16">
+        <h3 class="serif-display luxury-h3 text-gray-900 mb-4">
+          My <span class="gradient-text-accent">Stress-Free Process</span>
+        </h3>
+        <p class="luxury-body-large text-gray-600">From pre-approval to keys in hand—I handle the details so you can focus on finding your perfect home</p>
+      </div>
+
+      <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <!-- Step 1 -->
+        <div class="text-center">
+          <div class="w-16 h-16 bg-black rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm">
+            <span class="text-white font-bold text-xl serif-display">1</span>
+          </div>
+          <h4 class="serif-display text-xl font-bold text-gray-900 mb-3">Free Consultation</h4>
+          <p class="sans-body text-gray-600">We'll discuss your goals, timeline, and budget. I'll explain your loan options in plain English—no confusing jargon.</p>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="text-center">
+          <div class="w-16 h-16 bg-black rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm">
+            <span class="text-white font-bold text-xl serif-display">2</span>
+          </div>
+          <h4 class="serif-display text-xl font-bold text-gray-900 mb-3">Get Pre-Approved Fast</h4>
+          <p class="sans-body text-gray-600">Same-day pre-approval letter so you can shop with confidence and make competitive offers in today's market.</p>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="text-center">
+          <div class="w-16 h-16 bg-black rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm">
+            <span class="text-white font-bold text-xl serif-display">3</span>
+          </div>
+          <h4 class="serif-display text-xl font-bold text-gray-900 mb-3">Shop for Your Home</h4>
+          <p class="sans-body text-gray-600">Focus on finding your perfect Texas home while I handle all the loan paperwork and coordinate with your realtor.</p>
+        </div>
+
+        <!-- Step 4 -->
+        <div class="text-center">
+          <div class="w-16 h-16 bg-black rounded-full flex items-center justify-center mx-auto mb-6 shadow-sm">
+            <span class="text-white font-bold text-xl serif-display">4</span>
+          </div>
+          <h4 class="serif-display text-xl font-bold text-gray-900 mb-3">Close & Get Your Keys</h4>
+          <p class="sans-body text-gray-600">I'll guide you through closing, ensure everything goes smoothly, and celebrate when you get the keys to your new home!</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- Calculator Section -->
+<section id="calculator" class="luxury-bg-white py-24">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-12">
+      <h2 class="serif-display luxury-h2 text-gray-900 mb-6">
+        <span class="gradient-text-accent">Texas Mortgage Calculator</span>
+      </h2>
+      <p class="luxury-body-large text-gray-600 max-w-2xl mx-auto">
+        Estimate your monthly payment instantly and shop with confidence. Includes principal, interest, taxes, and insurance for accurate Texas home costs.
+      </p>
+    </div>
+
+    <div class="luxury-calculator p-8 lg:p-12">
+      <div class="grid lg:grid-cols-2 gap-12">
+        <!-- Left: Input Form -->
+        <div class="space-y-6">
+          <h3 class="serif-display text-2xl font-bold text-gray-900 mb-6">Loan Details</h3>
+          
+          <!-- Home Price -->
+          <div>
+            <label for="homePrice" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Home Price</label>
+            <div class="relative">
+              <span class="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-500 font-medium">$</span>
+              <input
+                id="homePrice"
+                type="number"
+                value="400000"
+                min="50000"
+                max="10000000"
+                step="1000"
+                class="w-full pl-8 pr-4 luxury-input sans-body"
+                aria-describedby="homePrice-help"
+              />
+              <div id="homePrice-help" class="sr-only">Enter the total purchase price of the home</div>
+            </div>
+          </div>
+
+          <!-- Down Payment -->
+          <div>
+            <label for="downPayment" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Down Payment</label>
+            <div class="relative">
+              <span class="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-500 font-medium">$</span>
+              <input
+                id="downPayment"
+                type="number"
+                value="80000"
+                min="0"
+                max="1000000"
+                step="1000"
+                class="w-full pl-8 pr-4 luxury-input sans-body"
+                aria-describedby="downPayment-help"
+              />
+              <div id="downPayment-help" class="sr-only">Enter your down payment amount in dollars</div>
+            </div>
+            <div class="mt-2 text-sm text-gray-500 sans-body">
+              <span id="downPaymentPercent">20%</span> of home price
+            </div>
+          </div>
+
+          <!-- Interest Rate -->
+          <div>
+            <label for="interestRate" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Interest Rate</label>
+            <div class="relative">
+              <input
+                id="interestRate"
+                type="number"
+                value="7.25"
+                min="1"
+                max="15"
+                step="0.01"
+                class="w-full luxury-input sans-body"
+                aria-describedby="interestRate-help"
+              />
+              <span class="absolute right-4 top-1/2 transform -translate-y-1/2 text-gray-500 font-medium">%</span>
+              <div id="interestRate-help" class="sr-only">Enter the annual interest rate for your loan</div>
+            </div>
+          </div>
+
+          <!-- Loan Term -->
+          <div>
+            <label for="loanTerm" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Loan Term</label>
+            <select
+              id="loanTerm"
+              class="w-full luxury-input sans-body"
+              aria-describedby="loanTerm-help"
+            >
+              <option value="30">30 years</option>
+              <option value="15">15 years</option>
+              <option value="20">20 years</option>
+              <option value="25">25 years</option>
+            </select>
+            <div id="loanTerm-help" class="sr-only">Select the length of your mortgage loan</div>
+          </div>
+
+          <!-- Property Tax -->
+          <div>
+            <label for="propertyTax" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Annual Property Tax</label>
+            <div class="relative">
+              <span class="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-500 font-medium">$</span>
+              <input
+                id="propertyTax"
+                type="number"
+                value="8000"
+                min="0"
+                max="100000"
+                step="100"
+                class="w-full pl-8 pr-4 luxury-input sans-body"
+                aria-describedby="propertyTax-help"
+              />
+              <div id="propertyTax-help" class="sr-only">Enter the estimated annual property tax amount</div>
+            </div>
+          </div>
+
+          <!-- Home Insurance -->
+          <div>
+            <label for="homeInsurance" class="block text-sm font-bold text-gray-900 mb-3 sans-body">Annual Home Insurance</label>
+            <div class="relative">
+              <span class="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-500 font-medium">$</span>
+              <input
+                id="homeInsurance"
+                type="number"
+                value="1200"
+                min="0"
+                max="10000"
+                step="50"
+                class="w-full pl-8 pr-4 luxury-input sans-body"
+                aria-describedby="homeInsurance-help"
+              />
+              <div id="homeInsurance-help" class="sr-only">Enter the estimated annual home insurance premium</div>
+            </div>
+          </div>
+
+          <!-- PMI -->
+          <div>
+            <label for="pmi" class="block text-sm font-bold text-gray-900 mb-3 sans-body">PMI (if applicable)</label>
+            <div class="relative">
+              <span class="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-500 font-medium">$</span>
+              <input
+                id="pmi"
+                type="number"
+                value="0"
+                min="0"
+                max="1000"
+                step="10"
+                class="w-full pl-8 pr-4 luxury-input sans-body"
+                aria-describedby="pmi-help"
+              />
+              <div id="pmi-help" class="sr-only">Enter monthly PMI amount if applicable</div>
+            </div>
+            <div class="mt-2 text-sm text-gray-500 sans-body">
+              Monthly PMI (usually required if down payment < 20%)
+            </div>
+          </div>
+        </div>
+
+        <!-- Right: Results -->
+        <div class="space-y-6">
+          <h3 class="serif-display text-2xl font-bold text-gray-900 mb-6">Monthly Payment Breakdown</h3>
+          
+          <!-- Total Monthly Payment -->
+          <div class="luxury-card bg-gray-50 text-center">
+            <div class="text-sm text-gray-600 mb-2 sans-body">Total Monthly Payment</div>
+            <div id="totalPayment" class="text-4xl font-bold gradient-text-accent serif-display">$2,847</div>
+          </div>
+
+          <!-- Payment Breakdown -->
+          <div class="space-y-4">
+            <div class="flex justify-between items-center py-3 border-b border-gray-100">
+              <span class="text-gray-600 sans-body">Principal & Interest</span>
+              <span id="principalInterest" class="text-xl font-semibold text-gray-900 serif-display">$2,180</span>
+            </div>
+            <div class="flex justify-between items-center py-3 border-b border-gray-100">
+              <span class="text-gray-600 sans-body">Property Tax</span>
+              <span id="monthlyTax" class="text-xl font-semibold text-gray-900 serif-display">$667</span>
+            </div>
+            <div class="flex justify-between items-center py-3 border-b border-gray-100">
+              <span class="text-gray-600 sans-body">Home Insurance</span>
+              <span id="monthlyInsurance" class="text-xl font-semibold text-gray-900 serif-display">$100</span>
+            </div>
+            <div class="flex justify-between items-center py-3 border-b border-gray-100">
+              <span class="text-gray-600 sans-body">PMI</span>
+              <span id="monthlyPMI" class="text-xl font-semibold text-gray-900 serif-display">$0</span>
+            </div>
+          </div>
+
+          <!-- Loan Summary -->
+          <div class="luxury-card bg-gray-50 space-y-4">
+            <h4 class="serif-display text-lg font-bold text-gray-900">Loan Summary</h4>
+            <div class="space-y-3 text-sm">
+              <div class="flex justify-between">
+                <span class="text-gray-600 sans-body">Loan Amount</span>
+                <span id="loanAmount" class="text-gray-900 font-medium sans-body">$320,000</span>
+              </div>
+              <div class="flex justify-between">
+                <span class="text-gray-600 sans-body">Total Interest Paid</span>
+                <span id="totalInterest" class="text-gray-900 font-medium sans-body">$464,800</span>
+              </div>
+              <div class="flex justify-between">
+                <span class="text-gray-600 sans-body">Total Cost of Loan</span>
+                <span id="totalCost" class="text-gray-900 font-medium sans-body">$784,800</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- CTA -->
+          <div class="text-center pt-6">
+            <p class="text-gray-600 mb-4 sans-body">Ready to get pre-approved?</p>
+            <a href="#lead" class="btn-luxury-primary" aria-label="Contact Kelly for pre-approval">
+              💬 Talk to Kelly
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- Luxury Divider -->
+<div class="luxury-divider"></div>
+
+<!-- Reviews Section -->
+<section id="reviews" class="relative py-24 overflow-hidden">
+  <!-- Dark gradient background with subtle glow -->
+  <div class="absolute inset-0 bg-gradient-to-br from-gray-900 via-gray-800 to-black"></div>
+  <div class="absolute inset-0 bg-gradient-to-r from-pink-500/5 via-transparent to-teal-500/5"></div>
+  
+  <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-16">
+      <h2 class="serif-display luxury-h2 text-white mb-6">
+        Trusted by Families Across Texas
+      </h2>
+      <p class="luxury-body-large text-gray-300 max-w-3xl mx-auto">
+        See why clients choose Kelly for stress-free mortgage solutions.
+      </p>
+    </div>
+
+    <!-- Testimonials Grid -->
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+      <!-- Testimonial 1: First-Time Buyer -->
+      <article class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 shadow-2xl fade-in-up">
+        <div class="flex items-center mb-6">
+          <div class="text-yellow-400 text-xl mr-3" aria-label="5 out of 5 stars">⭐⭐⭐⭐⭐</div>
+        </div>
+        
+        <blockquote class="text-gray-200 mb-6 leading-relaxed sans-body">
+          "Kelly made our first home purchase stress-free. She explained everything clearly and got us approved fast. We love our new Plano home!"
+        </blockquote>
+        
+        <footer class="flex items-center gap-4">
+          <div class="w-12 h-12 rounded-full overflow-hidden border-2 border-white/30">
+            <img 
+              src="https://images.unsplash.com/photo-1494790108755-2616c9c0e8e3?w=100&h=100&fit=crop&auto=format&q=80" 
+              alt="Sarah & Mike T." 
+              class="w-full h-full object-cover"
+              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+            />
+            <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-teal-500 rounded-full flex items-center justify-center" style="display: none;">
+              <span class="text-white font-bold text-sm serif-display">SM</span>
+            </div>
+          </div>
+          <div>
+            <cite class="text-white font-semibold not-italic serif-display">Sarah & Mike</cite>
+            <div class="text-sm text-gray-300 sans-body">Plano, TX</div>
+          </div>
+        </footer>
+      </article>
+
+      <!-- Testimonial 2: VA Loan -->
+      <article class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 shadow-2xl fade-in-up">
+        <div class="flex items-center mb-6">
+          <div class="text-yellow-400 text-xl mr-3" aria-label="5 out of 5 stars">⭐⭐⭐⭐⭐</div>
+        </div>
+        
+        <blockquote class="text-gray-200 mb-6 leading-relaxed sans-body">
+          "Kelly truly understands VA loans. She saved me thousands with 0% down and made the whole process seamless. Outstanding service!"
+        </blockquote>
+        
+        <footer class="flex items-center gap-4">
+          <div class="w-12 h-12 rounded-full overflow-hidden border-2 border-white/30">
+            <img 
+              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&auto=format&q=80" 
+              alt="James Rodriguez" 
+              class="w-full h-full object-cover"
+              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+            />
+            <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-teal-500 rounded-full flex items-center justify-center" style="display: none;">
+              <span class="text-white font-bold text-sm serif-display">JR</span>
+            </div>
+          </div>
+          <div>
+            <cite class="text-white font-semibold not-italic serif-display">James</cite>
+            <div class="text-sm text-gray-300 sans-body">Arlington, TX</div>
+          </div>
+        </footer>
+      </article>
+
+      <!-- Testimonial 3: Refinance -->
+      <article class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 shadow-2xl fade-in-up">
+        <div class="flex items-center mb-6">
+          <div class="text-yellow-400 text-xl mr-3" aria-label="5 out of 5 stars">⭐⭐⭐⭐⭐</div>
+        </div>
+        
+        <blockquote class="text-gray-200 mb-6 leading-relaxed sans-body">
+          "Kelly helped us refinance and eliminate PMI, saving us $400 monthly! Smooth process and excellent communication throughout."
+        </blockquote>
+        
+        <footer class="flex items-center gap-4">
+          <div class="w-12 h-12 rounded-full overflow-hidden border-2 border-white/30">
+            <img 
+              src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&auto=format&q=80" 
+              alt="Lisa Chen" 
+              class="w-full h-full object-cover"
+              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+            />
+            <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-teal-500 rounded-full flex items-center justify-center" style="display: none;">
+              <span class="text-white font-bold text-sm serif-display">LC</span>
+            </div>
+          </div>
+          <div>
+            <cite class="text-white font-semibold not-italic serif-display">Lisa</cite>
+            <div class="text-sm text-gray-300 sans-body">Frisco, TX</div>
+          </div>
+        </footer>
+      </article>
+
+      <!-- Testimonial 4: Investment Property -->
+      <article class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 shadow-2xl fade-in-up">
+        <div class="flex items-center mb-6">
+          <div class="text-yellow-400 text-xl mr-3" aria-label="5 out of 5 stars">⭐⭐⭐⭐⭐</div>
+        </div>
+        
+        <blockquote class="text-gray-200 mb-6 leading-relaxed sans-body">
+          "Kelly has helped me with three investment properties. She understands investors and always finds competitive rates. Invaluable Dallas market knowledge!"
+        </blockquote>
+        
+        <footer class="flex items-center gap-4">
+          <div class="w-12 h-12 rounded-full overflow-hidden border-2 border-white/30">
+            <img 
+              src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&auto=format&q=80" 
+              alt="David Williams" 
+              class="w-full h-full object-cover"
+              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+            />
+            <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-teal-500 rounded-full flex items-center justify-center" style="display: none;">
+              <span class="text-white font-bold text-sm serif-display">DW</span>
+            </div>
+          </div>
+          <div>
+            <cite class="text-white font-semibold not-italic serif-display">David</cite>
+            <div class="text-sm text-gray-300 sans-body">Dallas, TX</div>
+          </div>
+        </footer>
+      </article>
+
+      <!-- Testimonial 5: FHA Loan -->
+      <article class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 shadow-2xl fade-in-up">
+        <div class="flex items-center mb-6">
+          <div class="text-yellow-400 text-xl mr-3" aria-label="5 out of 5 stars">⭐⭐⭐⭐⭐</div>
+        </div>
+        
+        <blockquote class="text-gray-200 mb-6 leading-relaxed sans-body">
+          "Kelly was patient and encouraging when my credit wasn't perfect. She found me a great FHA loan and made homeownership possible. Forever grateful!"
+        </blockquote>
+        
+        <footer class="flex items-center gap-4">
+          <div class="w-12 h-12 rounded-full overflow-hidden border-2 border-white/30">
+            <img 
+              src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop&auto=format&q=80" 
+              alt="Maria Johnson" 
+              class="w-full h-full object-cover"
+              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+            />
+            <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-teal-500 rounded-full flex items-center justify-center" style="display: none;">
+              <span class="text-white font-bold text-sm serif-display">MJ</span>
+            </div>
+          </div>
+          <div>
+            <cite class="text-white font-semibold not-italic serif-display">Maria</cite>
+            <div class="text-sm text-gray-300 sans-body">Garland, TX</div>
+          </div>
+        </footer>
+      </article>
+
+      <!-- Testimonial 6: USDA Loan -->
+      <article class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 shadow-2xl fade-in-up">
+        <div class="flex items-center mb-6">
+          <div class="text-yellow-400 text-xl mr-3" aria-label="5 out of 5 stars">⭐⭐⭐⭐⭐</div>
+        </div>
+        
+        <blockquote class="text-gray-200 mb-6 leading-relaxed sans-body">
+          "We wanted space outside the city but thought we'd need a huge down payment. Kelly showed us USDA loans and we got 100% financing in East Texas!"
+        </blockquote>
+        
+        <footer class="flex items-center gap-4">
+          <div class="w-12 h-12 rounded-full overflow-hidden border-2 border-white/30">
+            <img 
+              src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&h=100&fit=crop&auto=format&q=80" 
+              alt="Tom & Beth K." 
+              class="w-full h-full object-cover"
+              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+            />
+            <div class="w-12 h-12 bg-gradient-to-br from-pink-500 to-teal-500 rounded-full flex items-center justify-center" style="display: none;">
+              <span class="text-white font-bold text-sm serif-display">TB</span>
+            </div>
+          </div>
+          <div>
+            <cite class="text-white font-semibold not-italic serif-display">Tom & Beth</cite>
+            <div class="text-sm text-gray-300 sans-body">Tyler, TX</div>
+          </div>
+        </footer>
+      </article>
+    </div>
+
+    <!-- Trust Stats -->
+    <div class="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-8 text-center shadow-2xl">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <div>
+          <div class="text-3xl font-bold gradient-text-accent serif-display mb-2">500+</div>
+          <div class="text-gray-300 sans-body">Happy Families</div>
+        </div>
+        <div>
+          <div class="text-3xl font-bold gradient-text-accent serif-display mb-2">4.9★</div>
+          <div class="text-gray-300 sans-body">Average Rating</div>
+        </div>
+        <div>
+          <div class="text-3xl font-bold gradient-text-accent serif-display mb-2">98%</div>
+          <div class="text-gray-300 sans-body">On-Time Closings</div>
+        </div>
+        <div>
+          <div class="text-3xl font-bold gradient-text-accent serif-display mb-2">7+</div>
+          <div class="text-gray-300 sans-body">Years Experience</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CTA -->
+    <div class="text-center mt-12">
+      <a href="#lead" class="btn-luxury-primary text-xl px-12 py-6 shadow-2xl rounded-full" aria-label="Start your mortgage application today">
+        Start Your Application Today
+      </a>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- About Section with Cinematic Background -->
+<section id="about" class="relative py-24 overflow-hidden">
+  <!-- Cinematic Background -->
+  <div class="absolute inset-0 z-0">
+    <img 
+      src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1920&h=1080&fit=crop&auto=format&q=80" 
+      alt="" 
+      class="w-full h-full object-cover"
+      loading="lazy"
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+    />
+    <img 
+      src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1920&h=1080&fit=crop&auto=format&q=80" 
+      alt="" 
+      class="w-full h-full object-cover hidden"
+      loading="lazy"
+    />
+    <!-- Subtle gradient overlay for premium feel -->
+    <div class="absolute inset-0 bg-gradient-to-br from-white via-white to-pink-50/30"></div>
+    <!-- Faint KB watermark -->
+    <div class="absolute bottom-8 right-8 opacity-5 text-9xl font-bold serif-display text-gray-400 select-none pointer-events-none">KB</div>
+  </div>
+  
+  <!-- Content overlay -->
+  <div class="relative z-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid lg:grid-cols-2 gap-16 items-center">
+        <!-- Left: Kelly's Photo & Quick Info -->
+        <div class="text-center lg:text-left">
+          <!-- Professional Photo with Enhanced Styling -->
+          <div class="relative w-80 h-80 mx-auto lg:mx-0 mb-8">
+            <!-- Subtle background glow -->
+            <div class="absolute inset-0 bg-gradient-to-br from-pink-500/10 to-teal-500/10 rounded-3xl blur-2xl transform scale-110"></div>
+            <div class="relative rounded-3xl overflow-hidden shadow-2xl border-2 border-gray-100">
+              <img 
+                src="TEST TEST/assets/img/KellyClosing.jpg" 
+                alt="Kelly Bergman - Licensed Texas Mortgage Loan Officer" 
+                width="380"
+                height="380"
+                loading="lazy"
+                class="w-full h-full object-cover"
+                onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+              />
+              <div class="w-full h-full bg-gray-100 border-2 border-gray-100 flex items-center justify-center shadow-2xl" style="display: none;">
+                <div class="text-center">
+                  <div class="w-32 h-32 bg-black rounded-full mx-auto mb-4 flex items-center justify-center shadow-lg">
+                    <span class="text-white text-4xl font-bold serif-display">KB</span>
+                  </div>
+                  <p class="text-gray-500 text-sm sans-body">Professional Photo</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quick Contact Info -->
+          <div class="space-y-4">
+            <div class="flex items-center justify-center lg:justify-start gap-3">
+              <span class="gradient-text-accent" aria-hidden="true">📞</span>
+              <a href="tel:+15551234567" class="text-gray-600 font-medium hover:text-black transition-colors sans-body">(214) 945-5338"
+            </div>
+            <div class="flex items-center justify-center lg:justify-start gap-3">
+              <span class="gradient-text-accent" aria-hidden="true">✉️</span>
+              <a href="mailto:kelly@kellymortgage.com" class="text-gray-600 font-medium hover:text-black transition-colors sans-body">kelly@kellymortgage.com</a>
+            </div>
+            <div class="flex items-center justify-center lg:justify-start gap-3">
+              <span class="gradient-text-accent" aria-hidden="true">🏢</span>
+              <span class="text-gray-600 font-medium sans-body">NMLS #123456</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right: About Content -->
+        <div>
+          <h2 class="serif-display luxury-h2 text-gray-900 mb-6">
+            Meet Kelly
+            <span class="gradient-text-accent block">Your Texas Mortgage Expert</span>
+          </h2>
+
+          <div class="space-y-6 luxury-body text-gray-600">
+            <p>
+              Hi there! I'm Kelly, and I've been blessed to call Texas home my entire life. For over 
+              <strong class="text-gray-900">7 years</strong>, I've had the privilege of helping families across DFW and East Texas 
+              turn their homeownership dreams into reality. With more than <strong class="text-gray-900">120 successful closings</strong>, 
+              I've learned that buying a home isn't just about numbers—it's about your family's future and peace of mind.
+            </p>
+
+            <p>
+              What I love most about my work is taking the stress out of what can feel like an overwhelming process. 
+              I believe in honest conversations, clear explanations, and being there for you every step of the way. 
+              Whether you're a first-time buyer exploring FHA loans, a veteran discovering your VA benefits, or growing your investment portfolio, 
+              I'm here to guide you with patience and care.
+            </p>
+
+            <p>
+              <strong class="text-gray-900">Here's what you can count on:</strong> I answer my phone, respond quickly (usually within hours), 
+              and I'm flexible with your schedule—evenings and weekends included. Your loan isn't just paperwork to me; 
+              it represents your family's hopes and dreams, and I treat it with the respect it deserves.
+            </p>
+
+            <p>
+              <strong class="text-gray-900">My commitment to you:</strong> Transparent communication, competitive rates, and a stress-free experience 
+              from application to closing. I'll keep you informed and comfortable throughout the entire journey, 
+              so you can focus on the excitement of finding your perfect Texas home.
+            </p>
+          </div>
+
+          <!-- Credentials -->
+          <div class="mt-8 grid grid-cols-2 gap-4">
+            <div class="luxury-card text-center bg-gray-50">
+              <div class="text-2xl font-bold gradient-text-accent serif-display mb-1">7+</div>
+              <div class="text-sm text-gray-600 sans-body">Years Experience</div>
+            </div>
+            <div class="luxury-card text-center bg-gray-50">
+              <div class="text-2xl font-bold gradient-text-accent serif-display mb-1">120+</div>
+              <div class="text-sm text-gray-600 sans-body">Happy Clients</div>
+            </div>
+            <div class="luxury-card text-center bg-gray-50">
+              <div class="text-2xl font-bold gradient-text-accent serif-display mb-1">A+</div>
+              <div class="text-sm text-gray-600 sans-body">BBB Rating</div>
+            </div>
+            <div class="luxury-card text-center bg-gray-50">
+              <div class="text-2xl font-bold gradient-text-accent serif-display mb-1">24hr</div>
+              <div class="text-sm text-gray-600 sans-body">Response Time</div>
+            </div>
+          </div>
+
+          <!-- CTA -->
+          <div class="mt-8">
+            <a href="#lead" class="btn-luxury-primary" aria-label="Start your mortgage application with Kelly">
+              Start Your Application
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- Luxury Divider -->
+<div class="luxury-divider"></div>
+
+<!-- FAQ Section -->
+<section id="faq" class="relative py-24 overflow-hidden">
+  <!-- Subtle gradient background -->
+  <div class="absolute inset-0 bg-gradient-to-br from-gray-50 via-white to-pink-50/30"></div>
+  <div class="relative z-10">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-16">
+      <h2 class="serif-display luxury-h2 text-gray-900 mb-6">
+        <span class="gradient-text-accent">Frequently Asked</span>
+        <span class="block text-gray-900">Questions</span>
+      </h2>
+      <p class="luxury-body-large text-gray-600 max-w-3xl mx-auto">
+        Get answers to the most common questions about mortgages, the application process, and working with me.
+      </p>
+    </div>
+
+    <div class="space-y-4">
+      <!-- FAQ 1: Credit Score Impact -->
+      <div class="luxury-faq">
+        <button class="luxury-faq-button flex justify-between items-center w-full" onclick="toggleFAQ(this)">
+          <h3 class="serif-display text-lg font-semibold text-gray-900 pr-4">Will checking my rate affect my credit score?</h3>
+          <span class="luxury-faq-icon transform transition-transform">+</span>
+        </button>
+        <div class="luxury-faq-content hidden">
+          <p class="sans-body text-gray-600 leading-relaxed">
+            <strong class="text-gray-900">No, not initially!</strong> When you fill out my pre-qualification form, I use a "soft pull" that won't impact your credit score at all. This lets me give you accurate rate estimates and loan options without any risk to your credit.
+          </p>
+          <p class="sans-body text-gray-600 leading-relaxed mt-4">
+            I only do a "hard pull" (which can temporarily lower your score by a few points) when you're ready to move forward with a formal application. Even then, multiple mortgage inquiries within 14-45 days count as just one inquiry, so you can shop around safely.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 2: Timeline -->
+      <div class="luxury-faq">
+        <button class="luxury-faq-button flex justify-between items-center w-full" onclick="toggleFAQ(this)">
+          <h3 class="serif-display text-lg font-semibold text-gray-900 pr-4">How long does the mortgage process take?</h3>
+          <span class="luxury-faq-icon transform transition-transform">+</span>
+        </button>
+        <div class="luxury-faq-content hidden">
+          <p class="sans-body text-gray-600 leading-relaxed">
+            <strong class="text-gray-900">Pre-approval:</strong> Same day! I can usually get you a pre-approval letter within hours of receiving your information.
+          </p>
+          <p class="sans-body text-gray-600 leading-relaxed mt-4">
+            <strong class="text-gray-900">Full loan process:</strong> Typically 21-30 days from contract to closing. This includes appraisal, underwriting, and final approval. I work hard to close on time and keep you updated throughout the process.
+          </p>
+          <p class="sans-body text-gray-600 leading-relaxed mt-4">
+            <strong class="text-gray-900">Rush closings:</strong> Need to close faster? I've closed loans in as little as 14 days when needed. Just let me know your timeline upfront.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 3: Loan Options -->
+      <div class="luxury-faq">
+        <button class="luxury-faq-button flex justify-between items-center w-full" onclick="toggleFAQ(this)">
+          <h3 class="serif-display text-lg font-semibold text-gray-900 pr-4">What loan programs do you offer?</h3>
+          <span class="luxury-faq-icon transform transition-transform">+</span>
+        </button>
+        <div class="luxury-faq-content hidden">
+          <p class="sans-body text-gray-600 leading-relaxed mb-4">I offer all major loan types to fit your unique situation:</p>
+          <ul class="space-y-3 text-gray-600 sans-body">
+            <li class="flex items-start gap-3">
+              <span class="gradient-text-accent font-bold mt-1">•</span>
+              <div>
+                <strong class="text-gray-900">VA Loans:</strong> $0 down for veterans and active military
+              </div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="gradient-text-accent font-bold mt-1">•</span>
+              <div>
+                <strong class="text-gray-900">FHA Loans:</strong> 3.5% down, flexible credit requirements
+              </div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="gradient-text-accent font-bold mt-1">•</span>
+              <div>
+                <strong class="text-gray-900">USDA Loans:</strong> $0 down for eligible rural/suburban areas
+              </div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="gradient-text-accent font-bold mt-1">•</span>
+              <div>
+                <strong class="text-gray-900">Conventional Loans:</strong> As low as 3% down, competitive rates
+              </div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="gradient-text-accent font-bold mt-1">•</span>
+              <div>
+                <strong class="text-gray-900">Jumbo Loans:</strong> For luxury homes over $766,550
+              </div>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="gradient-text-accent font-bold mt-1">•</span>
+              <div>
+                <strong class="text-gray-900">Investment Property:</strong> Financing for rental properties
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- FAQ 4: Service Area -->
+      <div class="luxury-faq">
+        <button class="luxury-faq-button flex justify-between items-center w-full" onclick="toggleFAQ(this)">
+          <h3 class="serif-display text-lg font-semibold text-gray-900 pr-4">Do you work throughout Texas?</h3>
+          <span class="luxury-faq-icon transform transition-transform">+</span>
+        </button>
+        <div class="luxury-faq-content hidden">
+          <p class="sans-body text-gray-600 leading-relaxed">
+            <strong class="text-gray-900">Yes!</strong> I'm licensed throughout Texas and work with clients statewide. While I'm based in the DFW area and have deep expertise in North Texas markets, I regularly help families in:
+          </p>
+          <div class="grid md:grid-cols-2 gap-4 mt-4 text-gray-600 sans-body">
+            <ul class="space-y-2">
+              <li>• Dallas-Fort Worth Metroplex</li>
+              <li>• Houston & surrounding areas</li>
+              <li>• Austin & Central Texas</li>
+              <li>• San Antonio region</li>
+            </ul>
+            <ul class="space-y-2">
+              <li>• East Texas (Tyler, Longview, etc.)</li>
+              <li>• West Texas communities</li>
+              <li>• Gulf Coast areas</li>
+              <li>• Rural Texas towns</li>
+            </ul>
+          </div>
+          <p class="sans-body text-gray-600 leading-relaxed mt-4">
+            <strong class="text-gray-900">Remote-friendly process:</strong> Most of our work can be done over phone, email, and secure document upload. I'll travel for closings when needed.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 5: Down Payment -->
+      <div class="luxury-faq">
+        <button class="luxury-faq-button flex justify-between items-center w-full" onclick="toggleFAQ(this)">
+          <h3 class="serif-display text-lg font-semibold text-gray-900 pr-4">How much do I need for a down payment?</h3>
+          <span class="luxury-faq-icon transform transition-transform">+</span>
+        </button>
+        <div class="luxury-faq-content hidden">
+          <p class="sans-body text-gray-600 leading-relaxed mb-4">
+            <strong class="text-gray-900">Great news—you might need less than you think!</strong> Down payment requirements vary by loan type:
+          </p>
+          <div class="space-y-3 text-gray-600 sans-body">
+            <div class="flex justify-between items-center py-2 border-b border-gray-100">
+              <span><strong class="text-gray-900">VA Loans:</strong></span>
+              <span class="gradient-text-accent font-bold">$0 (0%)</span>
+            </div>
+            <div class="flex justify-between items-center py-2 border-b border-gray-100">
+              <span><strong class="text-gray-900">USDA Loans:</strong></span>
+              <span class="gradient-text-accent font-bold">$0 (0%)</span>
+            </div>
+            <div class="flex justify-between items-center py-2 border-b border-gray-100">
+              <span><strong class="text-gray-900">FHA Loans:</strong></span>
+              <span class="gradient-text-accent font-bold">3.5%</span>
+            </div>
+            <div class="flex justify-between items-center py-2 border-b border-gray-100">
+              <span><strong class="text-gray-900">Conventional:</strong></span>
+              <span class="gradient-text-accent font-bold">3-5%</span>
+            </div>
+            <div class="flex justify-between items-center py-2">
+              <span><strong class="text-gray-900">Investment Property:</strong></span>
+              <span class="gradient-text-accent font-bold">20-25%</span>
+            </div>
+          </div>
+          <p class="sans-body text-gray-600 leading-relaxed mt-4">
+            <strong class="text-gray-900">Down payment assistance:</strong> Texas offers several programs to help first-time buyers with down payment and closing costs. I'll help you find every program you qualify for.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 6: Costs -->
+      <div class="luxury-faq">
+        <button class="luxury-faq-button flex justify-between items-center w-full" onclick="toggleFAQ(this)">
+          <h3 class="serif-display text-lg font-semibold text-gray-900 pr-4">What does it cost to work with you?</h3>
+          <span class="luxury-faq-icon transform transition-transform">+</span>
+        </button>
+        <div class="luxury-faq-content hidden">
+          <p class="sans-body text-gray-600 leading-relaxed">
+            <strong class="text-gray-900">My consultation and pre-approval are completely FREE!</strong> You pay nothing upfront to get started, get pre-approved, or explore your options.
+          </p>
+          <p class="sans-body text-gray-600 leading-relaxed mt-4">
+            <strong class="text-gray-900">How I get paid:</strong> I'm compensated by the lender at closing—never by you directly. This means my services cost you nothing extra, and I'm motivated to get you the best possible rate and terms.
+          </p>
+          <p class="sans-body text-gray-600 leading-relaxed mt-4">
+            <strong class="text-gray-900">Standard closing costs apply:</strong> These include appraisal, title insurance, and other third-party fees that are part of any mortgage. I'll give you a detailed breakdown upfront so there are no surprises.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 7: Credit Requirements -->
+      <div class="luxury-faq">
+        <button class="luxury-faq-button flex justify-between items-center w-full" onclick="toggleFAQ(this)">
+          <h3 class="serif-display text-lg font-semibold text-gray-900 pr-4">What credit score do I need?</h3>
+          <span class="luxury-faq-icon transform transition-transform">+</span>
+        </button>
+        <div class="luxury-faq-content hidden">
+          <p class="sans-body text-gray-600 leading-relaxed mb-4">
+            <strong class="text-gray-900">Don't let credit score fears stop you!</strong> Different loan programs have different requirements:
+          </p>
+          <div class="space-y-3 text-gray-600 sans-body">
+            <div class="flex justify-between items-center py-2 border-b border-gray-100">
+              <span><strong class="text-gray-900">FHA Loans:</strong></span>
+              <span class="gradient-text-accent font-bold">580+ (3.5% down)</span>
+            </div>
+            <div class="flex justify-between items-center py-2 border-b border-gray-100">
+              <span><strong class="text-gray-900">VA Loans:</strong></span>
+              <span class="gradient-text-accent font-bold">No minimum*</span>
+            </div>
+            <div class="flex justify-between items-center py-2 border-b border-gray-100">
+              <span><strong class="text-gray-900">USDA Loans:</strong></span>
+              <span class="gradient-text-accent font-bold">640+</span>
+            </div>
+            <div class="flex justify-between items-center py-2">
+              <span><strong class="text-gray-900">Conventional:</strong></span>
+              <span class="gradient-text-accent font-bold">620+</span>
+            </div>
+          </div>
+          <p class="sans-body text-gray-600 leading-relaxed mt-4">
+            <strong class="text-gray-900">Lower credit score?</strong> I work with lenders who specialize in helping people with credit challenges. Even if you've been turned down elsewhere, let's talk—I might have options for you.
+          </p>
+          <p class="text-sm text-gray-500 mt-4 sans-body">
+            *VA loans have no official minimum, but most lenders prefer 580+
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 8: Next Steps -->
+      <div class="luxury-faq">
+        <button class="luxury-faq-button flex justify-between items-center w-full" onclick="toggleFAQ(this)">
+          <h3 class="serif-display text-lg font-semibold text-gray-900 pr-4">What's the first step to get started?</h3>
+          <span class="luxury-faq-icon transform transition-transform">+</span>
+        </button>
+        <div class="luxury-faq-content hidden">
+          <p class="sans-body text-gray-600 leading-relaxed mb-4">
+            <strong class="text-gray-900">It's easy!</strong> Here's exactly what happens next:
+          </p>
+          <div class="space-y-4">
+            <div class="flex items-start gap-4">
+              <div class="w-8 h-8 bg-black rounded-full flex items-center justify-center flex-shrink-0 mt-1">
+                <span class="text-white font-bold text-sm serif-display">1</span>
+              </div>
+              <div>
+                <h4 class="text-gray-900 font-semibold mb-1 serif-display">Fill out my quick form above</h4>
+                <p class="text-gray-600 text-sm sans-body">Takes 60 seconds, no credit check required</p>
+              </div>
+            </div>
+            <div class="flex items-start gap-4">
+              <div class="w-8 h-8 bg-black rounded-full flex items-center justify-center flex-shrink-0 mt-1">
+                <span class="text-white font-bold text-sm serif-display">2</span>
+              </div>
+              <div>
+                <h4 class="text-gray-900 font-semibold mb-1 serif-display">I'll call you within 24 hours</h4>
+                <p class="text-gray-600 text-sm sans-body">We'll discuss your goals and I'll explain your options</p>
+              </div>
+            </div>
+            <div class="flex items-start gap-4">
+              <div class="w-8 h-8 bg-black rounded-full flex items-center justify-center flex-shrink-0 mt-1">
+                <span class="text-white font-bold text-sm serif-display">3</span>
+              </div>
+              <div>
+                <h4 class="text-gray-900 font-semibold mb-1 serif-display">Get pre-approved same day</h4>
+                <p class="text-gray-600 text-sm sans-body">Start shopping with confidence!</p>
+              </div>
+            </div>
+          </div>
+          <div class="mt-6 text-center">
+            <a href="#lead" class="btn-luxury-primary">
+              🏠 Start My Pre-Approval
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- Calendly Booking Section -->
+<section class="luxury-bg-white py-24">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-12">
+      <h2 class="serif-display luxury-h2 text-gray-900 mb-6">
+        <span class="gradient-text-accent">Schedule Your</span>
+        <span class="block text-gray-900">FREE Consultation</span>
+      </h2>
+      <p class="luxury-body-large text-gray-600 max-w-3xl mx-auto mb-6">
+        Ready to explore your mortgage options? Book a convenient time for your complimentary consultation. I'll review your unique situation and explain your loan programs in plain English—no pressure, just honest guidance.
+      </p>
+      
+      <!-- Trust Indicators -->
+      <div class="flex flex-wrap justify-center items-center gap-4 text-gray-600 mb-8">
+        <div class="luxury-trust-badge flex items-center gap-2">
+          <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+          <span class="sans-body font-medium">100% Free Consultation</span>
+        </div>
+        <div class="luxury-trust-badge flex items-center gap-2">
+          <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+          <span class="sans-body font-medium">No Obligation</span>
+        </div>
+        <div class="luxury-trust-badge flex items-center gap-2">
+          <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+          <span class="sans-body font-medium">Same-Day Pre-Approval Available</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="luxury-card max-w-5xl mx-auto">
+      <div 
+        class="calendly-inline-widget" 
+        data-url="https://calendly.com/thebotstop/kb-test?hide_gdpr_banner=1"
+        style="min-width:320px;height:700px;"
+      ></div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- Blog/Home Tips Section -->
+<section id="tips" class="relative py-24 overflow-hidden">
+  <!-- Subtle gradient background -->
+  <div class="absolute inset-0 bg-gradient-to-br from-pink-50/20 via-white to-teal-50/30"></div>
+  <div class="relative z-10">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-16">
+      <h2 class="serif-display luxury-h2 text-gray-900 mb-6">
+        <span class="gradient-text-accent">Expert Home Buying Tips</span>
+        <span class="block text-gray-900">& Texas Mortgage Insights</span>
+      </h2>
+      <p class="luxury-body-large text-gray-600 max-w-3xl mx-auto">
+        Stay ahead with insider knowledge, practical tips, and expert guidance to help you navigate the Texas real estate market and secure the best mortgage terms.
+      </p>
+    </div>
+
+    <!-- Blog Grid -->
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
+      
+      <!-- Blog Post 1: First-Time Home Buyer Tips -->
+      <article class="luxury-blog-card">
+        <div class="h-48 overflow-hidden">
+          <img 
+            src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=400&h=200&fit=crop&auto=format&q=80" 
+            alt="Couple with keys outside new home" 
+            class="w-full h-full object-cover"
+            loading="lazy"
+          />
+        </div>
+        
+        <div class="p-6">
+          <div class="mb-4">
+            <span class="inline-block bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-semibold sans-body">
+              First-Time Buyers
+            </span>
+          </div>
+          
+          <h3 class="serif-display text-xl font-bold text-gray-900 mb-3 leading-tight">
+            5 First-Time Home Buyer Tips Every Texan Should Know in 2025
+          </h3>
+          
+          <p class="sans-body text-gray-600 mb-6 leading-relaxed">
+            Buying your first home in Texas? Learn how to get pre-approved, understand closing costs, and avoid the most common mistakes that could cost you thousands.
+          </p>
+          
+          <a href="#lead" class="gradient-text-accent font-semibold hover:opacity-80 transition-opacity inline-flex items-center gap-2 sans-body">
+            Get Expert Guidance <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      </article>
+
+      <!-- Blog Post 2: Refinancing -->
+      <article class="luxury-blog-card">
+        <div class="h-48 overflow-hidden">
+          <img 
+            src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=200&fit=crop&auto=format&q=80" 
+            alt="Paperwork and documents on kitchen table" 
+            class="w-full h-full object-cover"
+            loading="lazy"
+          />
+        </div>
+        
+        <div class="p-6">
+          <div class="mb-4">
+            <span class="inline-block bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-semibold sans-body">
+              Refinancing
+            </span>
+          </div>
+          
+          <h3 class="serif-display text-xl font-bold text-gray-900 mb-3 leading-tight">
+            When Should You Refinance Your Texas Home? Complete 2025 Guide
+          </h3>
+          
+          <p class="sans-body text-gray-600 mb-6 leading-relaxed">
+            Discover when refinancing makes sense, how to eliminate PMI, and calculate your potential savings with current Texas mortgage rates.
+          </p>
+          
+          <a href="#lead" class="gradient-text-accent font-semibold hover:opacity-80 transition-opacity inline-flex items-center gap-2 sans-body">
+            Check My Refinance Options <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      </article>
+
+      <!-- Blog Post 3: VA Loans -->
+      <article class="luxury-blog-card">
+        <div class="h-48 overflow-hidden">
+          <img 
+            src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&h=200&fit=crop&auto=format&q=80" 
+            alt="Military family in front of home" 
+            class="w-full h-full object-cover"
+            loading="lazy"
+          />
+        </div>
+        
+        <div class="p-6">
+          <div class="mb-4">
+            <span class="inline-block bg-red-100 text-red-800 px-3 py-1 rounded-full text-sm font-semibold sans-body">
+              Veterans
+            </span>
+          </div>
+          
+          <h3 class="serif-display text-xl font-bold text-gray-900 mb-3 leading-tight">
+            VA Loan Benefits in Texas: Everything Veterans Need to Know
+          </h3>
+          
+          <p class="sans-body text-gray-600 mb-6 leading-relaxed">
+            Maximize your VA loan benefits with $0 down, no PMI, and competitive rates. Learn about eligibility, limits, and how to use your benefits in Texas.
+          </p>
+          
+          <a href="#lead" class="gradient-text-accent font-semibold hover:opacity-80 transition-opacity inline-flex items-center gap-2 sans-body">
+            Explore VA Benefits <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      </article>
+
+      <!-- Blog Post 4: Texas Market -->
+      <article class="luxury-blog-card">
+        <div class="h-48 overflow-hidden">
+          <img 
+            src="https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=400&h=200&fit=crop&auto=format&q=80" 
+            alt="Beautiful suburban Texas home with front porch and modern exterior" 
+            class="w-full h-full object-cover"
+            loading="lazy"
+            onerror="this.src='https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=400&h=200&fit=crop&auto=format&q=80'"
+          />
+        </div>
+        
+        <div class="p-6">
+          <div class="mb-4">
+            <span class="inline-block bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm font-semibold sans-body">
+              Market Update
+            </span>
+          </div>
+          
+          <h3 class="serif-display text-xl font-bold text-gray-900 mb-3 leading-tight">
+            Texas Housing Market 2025: Trends, Rates, and Buyer Opportunities
+          </h3>
+          
+          <p class="sans-body text-gray-600 mb-6 leading-relaxed">
+            Get the latest insights on Texas home prices, mortgage rates, and the best markets for buyers in DFW, Houston, Austin, and beyond.
+          </p>
+          
+          <a href="#lead" class="gradient-text-accent font-semibold hover:opacity-80 transition-opacity inline-flex items-center gap-2 sans-body">
+            Get Market Analysis <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      </article>
+
+      <!-- Blog Post 5: Credit Tips -->
+      <article class="luxury-blog-card">
+        <div class="h-48 overflow-hidden">
+          <img 
+            src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=200&fit=crop&auto=format&q=80" 
+            alt="Credit score dashboard on laptop screen" 
+            class="w-full h-full object-cover"
+            loading="lazy"
+          />
+        </div>
+        
+        <div class="p-6">
+          <div class="mb-4">
+            <span class="inline-block bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-semibold sans-body">
+              Credit Tips
+            </span>
+          </div>
+          
+          <h3 class="serif-display text-xl font-bold text-gray-900 mb-3 leading-tight">
+            How to Improve Your Credit Score for Better Mortgage Rates
+          </h3>
+          
+          <p class="sans-body text-gray-600 mb-6 leading-relaxed">
+            Simple strategies to boost your credit score quickly and qualify for better mortgage rates. Learn what lenders really look for in 2025.
+          </p>
+          
+          <a href="#lead" class="gradient-text-accent font-semibold hover:opacity-80 transition-opacity inline-flex items-center gap-2 sans-body">
+            Get Credit Guidance <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      </article>
+
+      <!-- Blog Post 6: Investment Properties -->
+      <article class="luxury-blog-card">
+        <div class="h-48 overflow-hidden">
+          <img 
+            src="https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=400&h=200&fit=crop&auto=format&q=80" 
+            alt="Suburban Texas rental property exterior" 
+            class="w-full h-full object-cover"
+            loading="lazy"
+          />
+        </div>
+        
+        <div class="p-6">
+          <div class="mb-4">
+            <span class="inline-block bg-teal-100 text-teal-800 px-3 py-1 rounded-full text-sm font-semibold sans-body">
+              Investing
+            </span>
+          </div>
+          
+          <h3 class="serif-display text-xl font-bold text-gray-900 mb-3 leading-tight">
+            Financing Your First Texas Rental Property: A Complete Guide
+          </h3>
+          
+          <p class="sans-body text-gray-600 mb-6 leading-relaxed">
+            Learn about investment property loans, down payment requirements, and how to analyze deals that will build long-term wealth in Texas real estate.
+          </p>
+          
+          <a href="#lead" class="gradient-text-accent font-semibold hover:opacity-80 transition-opacity inline-flex items-center gap-2 sans-body">
+            Explore Investment Loans <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      </article>
+    </div>
+
+    <!-- Newsletter Signup -->
+    <div class="luxury-card bg-gray-50 text-center max-w-3xl mx-auto">
+      <h3 class="serif-display text-2xl font-bold text-gray-900 mb-4">
+        Stay Informed with <span class="gradient-text-accent">Texas Mortgage Updates</span>
+      </h3>
+      <p class="sans-body text-gray-600 mb-6">
+        Get monthly insights on Texas mortgage rates, market trends, and home buying tips delivered to your inbox.
+      </p>
+      
+      <form class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
+        <input
+          type="email"
+          placeholder="Enter your email address"
+          class="flex-1 luxury-input sans-body"
+          required
+        />
+        <button type="submit" class="btn-luxury-primary whitespace-nowrap">
+          Subscribe Free
+        </button>
+      </form>
+      
+      <p class="text-xs text-gray-500 mt-4 sans-body">
+        No spam, unsubscribe anytime. Your email stays private.
+      </p>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- Luxury Divider -->
+<div class="luxury-divider"></div>
+
+<!-- Final CTA Section -->
+<section class="luxury-bg-dark py-24">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <h2 class="serif-display luxury-h2 text-white mb-6">
+      Ready to Make Your
+      <span class="gradient-text-accent block">Texas Homeownership Dreams</span>
+      a Reality?
+    </h2>
+    
+    <p class="luxury-body-large text-gray-300 mb-8 max-w-2xl mx-auto">
+      Don't let another month go by paying rent. Get pre-approved today and start building equity in your own Texas home.
+    </p>
+    
+    <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
+      <a href="#lead" class="btn-luxury-primary text-xl px-8 py-4">
+        🏠 Start My Pre-Approval Now
+      </a>
+      <a href="tel:+15551234567" class="btn-luxury-secondary text-xl px-8 py-4">
+        📞 Call Kelly Directly
+      </a>
+    </div>
+    
+    <!-- Final Trust Indicators -->
+    <div class="flex flex-wrap justify-center items-center gap-6 text-gray-300">
+      <div class="flex items-center gap-2">
+        <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+        <span class="sans-body">Licensed in Texas</span>
+      </div>
+      <div class="flex items-center gap-2">
+        <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+        <span class="sans-body">120+ Happy Families</span>
+      </div>
+      <div class="flex items-center gap-2">
+        <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+        <span class="sans-body">Same-Day Pre-Approval</span>
+      </div>
+      <div class="flex items-center gap-2">
+        <span class="gradient-text-accent font-bold" aria-hidden="true">✓</span>
+        <span class="sans-body">No Upfront Fees</span>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="bg-black text-white py-16" role="contentinfo">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
+      
+      <!-- Company Info -->
+      <div class="lg:col-span-2">
+        <div class="flex items-center space-x-4 mb-6">
+          <div class="w-20 h-20">
+            <img 
+              src="TEST TEST/assets/img/KellyLG.jpg"
+              alt="Kelly Bergman Mortgage Logo" 
+              class="w-full h-full object-contain p-1"
+              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+            />
+            <span class="text-black font-bold text-xl serif-display hidden">KB</span>
+          </div>
+          <div>
+            <h3 class="text-xl font-bold serif-display">Kelly Bergman</h3>
+            <p class="text-gray-400 text-sm sans-body">NMLS #1786042 • Texas Home Loans</p>
+          </div>
+        </div>
+        
+        <p class="text-gray-300 mb-6 leading-relaxed sans-body max-w-md">
+          Your trusted Texas mortgage expert with 7+ years of experience helping families secure home financing across DFW and East Texas.
+        </p>
+        
+        <!-- Contact Info -->
+        <div class="space-y-3">
+          <div class="flex items-center gap-3">
+            <span class="gradient-text-accent" aria-hidden="true">📞</span>
+            <a href="tel:+15551234567" class="text-gray-300 hover:text-white transition-colors sans-body">(214) 945-5338"
+          </div>
+          <div class="flex items-center gap-3">
+            <span class="gradient-text-accent" aria-hidden="true">✉️</span>
+            <a href="mailto:kelly@kellymortgage.com" class="text-gray-300 hover:text-white transition-colors sans-body">kelly@kellymortgage.com</a>
+          </div>
+          <div class="flex items-center gap-3">
+            <span class="gradient-text-accent" aria-hidden="true">📍</span>
+            <span class="text-gray-300 sans-body">Serving All of Texas</span>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Quick Links -->
+      <div>
+        <h4 class="text-lg font-semibold mb-6 serif-display">Quick Links</h4>
+        <ul class="space-y-3">
+          <li><a href="#about" class="text-gray-300 hover:text-white transition-colors sans-body">About Kelly</a></li>
+          <li><a href="#services" class="text-gray-300 hover:text-white transition-colors sans-body">Loan Programs</a></li>
+          <li><a href="#calculator" class="text-gray-300 hover:text-white transition-colors sans-body">Mortgage Calculator</a></li>
+          <li><a href="#reviews" class="text-gray-300 hover:text-white transition-colors sans-body">Client Reviews</a></li>
+          <li><a href="#faq" class="text-gray-300 hover:text-white transition-colors sans-body">FAQ</a></li>
+          <li><a href="#tips" class="text-gray-300 hover:text-white transition-colors sans-body">Home Buying Tips</a></li>
+        </ul>
+      </div>
+      
+      <!-- Loan Types -->
+      <div>
+        <h4 class="text-lg font-semibold mb-6 serif-display">Loan Programs</h4>
+        <ul class="space-y-3">
+          <li><span class="text-gray-300 sans-body">VA Loans</span></li>
+          <li><span class="text-gray-300 sans-body">FHA Loans</span></li>
+          <li><span class="text-gray-300 sans-body">USDA Loans</span></li>
+          <li><span class="text-gray-300 sans-body">Conventional Loans</span></li>
+          <li><span class="text-gray-300 sans-body">Refinancing</span></li>
+          <li><span class="text-gray-300 sans-body">Investment Properties</span></li>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Bottom Bar -->
+    <div class="border-t border-gray-800 pt-8">
+      <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+        <div class="text-gray-400 text-sm sans-body text-center md:text-left">
+          <p>&copy; 2025 Kelly Bergman Mortgage. All rights reserved.</p>
+          <p class="mt-1">NMLS #1786042 • Licensed in Texas</p>
+        </div>
+        
+        <div class="flex items-center gap-6 text-sm text-gray-400 sans-body">
+          <a href="#" class="hover:text-white transition-colors">Privacy Policy</a>
+          <a href="#" class="hover:text-white transition-colors">Terms of Service</a>
+          <a href="#" class="hover:text-white transition-colors">NMLS Consumer Access</a>
+        </div>
+      </div>
+      
+      <!-- Legal Disclaimer -->
+      <div class="mt-8 pt-6 border-t border-gray-800">
+        <p class="text-xs text-gray-500 leading-relaxed sans-body">
+          <strong>Important Disclosure:</strong> This is not a commitment to lend. All loans subject to credit approval and property appraisal. 
+          Rates and terms subject to change without notice. Equal Housing Opportunity Lender. 
+          Kelly Bergman is a licensed mortgage loan originator in Texas (NMLS #1786042). 
+          For licensing information, visit <a href="https://www.nmlsconsumeraccess.org" class="underline hover:text-gray-400">www.nmlsconsumeraccess.org</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Mobile Sticky CTA -->
+<div class="mobile-sticky-cta">
+  <a href="#lead" class="btn-luxury-primary text-lg px-6 py-4 rounded-full shadow-2xl" aria-label="Start your mortgage application">
+    🏠 Get Pre-Approved
+  </a>
+</div>
+
+<!-- Exit Intent Popup -->
+<div id="exitPopup" class="luxury-exit-popup">
+  <div class="luxury-exit-popup-content">
+    <button onclick="closeExitPopup()" class="absolute top-4 right-4 text-gray-400 hover:text-gray-600 text-2xl" aria-label="Close popup">
+      ×
+    </button>
+    
+    <div class="text-center">
+      <h3 class="serif-display text-2xl font-bold text-gray-900 mb-4">
+        Wait! Don't Miss Out on Your
+        <span class="gradient-text-accent">Dream Home</span>
+      </h3>
+      
+      <p class="sans-body text-gray-600 mb-6">
+        Get your FREE pre-approval letter today and start shopping with confidence. No credit impact to get started!
+      </p>
+      
+      <div class="space-y-4">
+        <a href="#lead" onclick="closeExitPopup()" class="btn-luxury-primary w-full text-center block">
+          🏠 Get My Free Pre-Approval
+        </a>
+        <button onclick="closeExitPopup()" class="text-gray-500 hover:text-gray-700 text-sm sans-body">
+          No thanks, I'll keep browsing
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// Mobile Menu Toggle
+document.getElementById('mobile-menu-btn').addEventListener('click', function() {
+  const mobileMenu = document.getElementById('mobile-menu');
+  const isHidden = mobileMenu.classList.contains('hidden');
+  
+  if (isHidden) {
+    mobileMenu.classList.remove('hidden');
+    this.setAttribute('aria-expanded', 'true');
+  } else {
+    mobileMenu.classList.add('hidden');
+    this.setAttribute('aria-expanded', 'false');
+  }
+});
+
+// Smooth Scrolling for Navigation Links
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+    e.preventDefault();
+    const target = document.querySelector(this.getAttribute('href'));
+    if (target) {
+      target.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+      });
+      
+      // Close mobile menu if open
+      const mobileMenu = document.getElementById('mobile-menu');
+      const menuBtn = document.getElementById('mobile-menu-btn');
+      if (!mobileMenu.classList.contains('hidden')) {
+        mobileMenu.classList.add('hidden');
+        menuBtn.setAttribute('aria-expanded', 'false');
+      }
+    }
+  });
+});
+
+// Mortgage Calculator
+function updateCalculator() {
+  const homePrice = parseFloat(document.getElementById('homePrice').value) || 0;
+  const downPayment = parseFloat(document.getElementById('downPayment').value) || 0;
+  const interestRate = parseFloat(document.getElementById('interestRate').value) || 0;
+  const loanTerm = parseInt(document.getElementById('loanTerm').value) || 30;
+  const propertyTax = parseFloat(document.getElementById('propertyTax').value) || 0;
+  const homeInsurance = parseFloat(document.getElementById('homeInsurance').value) || 0;
+  const pmi = parseFloat(document.getElementById('pmi').value) || 0;
+
+  // Calculate loan amount
+  const loanAmount = homePrice - downPayment;
+  
+  // Calculate down payment percentage
+  const downPaymentPercent = homePrice > 0 ? ((downPayment / homePrice) * 100).toFixed(1) : 0;
+  
+  // Calculate monthly payment (P&I)
+  const monthlyRate = interestRate / 100 / 12;
+  const numPayments = loanTerm * 12;
+  let monthlyPI = 0;
+  
+  if (monthlyRate > 0 && loanAmount > 0) {
+    monthlyPI = loanAmount * (monthlyRate * Math.pow(1 + monthlyRate, numPayments)) / (Math.pow(1 + monthlyRate, numPayments) - 1);
+  }
+  
+  // Calculate monthly amounts
+  const monthlyTax = propertyTax / 12;
+  const monthlyInsurance = homeInsurance / 12;
+  const totalMonthly = monthlyPI + monthlyTax + monthlyInsurance + pmi;
+  
+  // Calculate totals
+  const totalInterest = (monthlyPI * numPayments) - loanAmount;
+  const totalCost = loanAmount + totalInterest;
+  
+  // Update display
+  document.getElementById('downPaymentPercent').textContent = downPaymentPercent + '%';
+  document.getElementById('loanAmount').textContent = '$' + loanAmount.toLocaleString();
+  document.getElementById('principalInterest').textContent = '$' + Math.round(monthlyPI).toLocaleString();
+  document.getElementById('monthlyTax').textContent = '$' + Math.round(monthlyTax).toLocaleString();
+  document.getElementById('monthlyInsurance').textContent = '$' + Math.round(monthlyInsurance).toLocaleString();
+  document.getElementById('monthlyPMI').textContent = '$' + Math.round(pmi).toLocaleString();
+  document.getElementById('totalPayment').textContent = '$' + Math.round(totalMonthly).toLocaleString();
+  document.getElementById('totalInterest').textContent = '$' + Math.round(totalInterest).toLocaleString();
+  document.getElementById('totalCost').textContent = '$' + Math.round(totalCost).toLocaleString();
+}
+
+// Add event listeners to calculator inputs
+['homePrice', 'downPayment', 'interestRate', 'loanTerm', 'propertyTax', 'homeInsurance', 'pmi'].forEach(id => {
+  const element = document.getElementById(id);
+  if (element) {
+    element.addEventListener('input', updateCalculator);
+    element.addEventListener('change', updateCalculator);
+  }
+});
+
+// Initialize calculator
+updateCalculator();
+
+// FAQ Toggle Function
+function toggleFAQ(button) {
+  const content = button.nextElementSibling;
+  const icon = button.querySelector('.luxury-faq-icon');
+  
+  if (content.classList.contains('hidden')) {
+    content.classList.remove('hidden');
+    icon.textContent = '−';
+    icon.style.transform = 'rotate(0deg)';
+    button.setAttribute('aria-expanded', 'true');
+  } else {
+    content.classList.add('hidden');
+    icon.textContent = '+';
+    icon.style.transform = 'rotate(0deg)';
+    button.setAttribute('aria-expanded', 'false');
+  }
+}
+
+// Form Submission
+document.getElementById('leadForm').addEventListener('submit', function(e) {
+  e.preventDefault();
+  
+  const formData = new FormData(this);
+  const submitButton = this.querySelector('button[type="submit"]');
+  const messageDiv = document.getElementById('formMessage');
+  
+  // Add timestamp and page URL
+  formData.set('timestamp', new Date().toISOString());
+  formData.set('page_url', window.location.href);
+  
+  // Show loading state
+  submitButton.disabled = true;
+  submitButton.textContent = 'Submitting...';
+  messageDiv.className = 'mt-6 text-center text-blue-600';
+  messageDiv.textContent = 'Submitting your information...';
+  messageDiv.classList.remove('hidden');
+  
+  // Submit form
+  fetch(this.action, {
+    method: 'POST',
+    body: formData
+  })
+  .then(response => {
+    if (response.ok) {
+      // Success
+      messageDiv.className = 'mt-6 text-center text-green-600 font-semibold';
+      messageDiv.innerHTML = `
+        <div class="bg-green-50 border border-green-200 rounded-lg p-4">
+          <h3 class="font-bold mb-2">Thank you! Your information has been received.</h3>
+          <p>Kelly will review your information and contact you within 24 hours to discuss your mortgage options.</p>
+        </div>
+      `;
+      this.reset();
+    } else {
+      throw new Error('Network response was not ok');
+    }
+  })
+  .catch(error => {
+    // Error
+    messageDiv.className = 'mt-6 text-center text-red-600';
+    messageDiv.innerHTML = `
+      <div class="bg-red-50 border border-red-200 rounded-lg p-4">
+        <h3 class="font-bold mb-2">Oops! Something went wrong.</h3>
+        <p>Please try again or call Kelly directly at <a href="tel:+15551234567" class="underline font-semibold">(214) 945-5338"
+      </div>
+    `;
+  })
+  .finally(() => {
+    // Reset button
+    submitButton.disabled = false;
+    submitButton.textContent = 'Start My Pre-Approval Process';
+  });
+});
+
+// Exit Intent Popup
+let exitPopupShown = false;
+
+function showExitPopup() {
+  if (!exitPopupShown) {
+    document.getElementById('exitPopup').classList.add('show');
+    exitPopupShown = true;
+  }
+}
+
+function closeExitPopup() {
+  document.getElementById('exitPopup').classList.remove('show');
+}
+
+// Show exit popup when mouse leaves viewport (desktop only)
+if (window.innerWidth >= 1024) {
+  document.addEventListener('mouseleave', function(e) {
+    if (e.clientY <= 0) {
+      showExitPopup();
+    }
+  });
+}
+
+// Scroll Animations
+function isElementInViewport(el) {
+  const rect = el.getBoundingClientRect();
+  return (
+    rect.top >= 0 &&
+    rect.left >= 0 &&
+    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+    rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+  );
+}
+
+function handleScrollAnimations() {
+  const animatedElements = document.querySelectorAll('.fade-in-up, .slide-in-left, .slide-in-right');
+  
+  animatedElements.forEach(el => {
+    if (isElementInViewport(el)) {
+      el.classList.add('visible');
+    }
+  });
+}
+
+// Throttled scroll handler
+let scrollTimeout;
+window.addEventListener('scroll', function() {
+  if (scrollTimeout) {
+    clearTimeout(scrollTimeout);
+  }
+  scrollTimeout = setTimeout(handleScrollAnimations, 10);
+});
+
+// Initial animation check
+handleScrollAnimations();
+
+// Newsletter Signup
+document.querySelector('form').addEventListener('submit', function(e) {
+  if (this.querySelector('input[type="email"]').placeholder === 'Enter your email address') {
+    e.preventDefault();
+    
+    const email = this.querySelector('input[type="email"]').value;
+    const button = this.querySelector('button');
+    
+    if (email) {
+      button.textContent = 'Subscribed!';
+      button.disabled = true;
+      button.classList.add('bg-green-600');
+      
+      setTimeout(() => {
+        button.textContent = 'Subscribe Free';
+        button.disabled = false;
+        button.classList.remove('bg-green-600');
+        this.reset();
+      }, 3000);
+    }
+  }
+});
+
+// Calendly Widget Initialization
+window.addEventListener('load', function() {
+  if (typeof Calendly !== 'undefined') {
+    Calendly.initInlineWidget({
+      url: 'https://calendly.com/thebotstop/kb-test?hide_gdpr_banner=1',
+      parentElement: document.querySelector('.calendly-inline-widget'),
+      prefill: {},
+      utm: {}
+    });
+  }
+});
+
+// Performance: Lazy load images
+if ('IntersectionObserver' in window) {
+  const imageObserver = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const img = entry.target;
+        if (img.dataset.src) {
+          img.src = img.dataset.src;
+          img.removeAttribute('data-src');
+        }
+        observer.unobserve(img);
+      }
+    });
+  });
+
+  document.querySelectorAll('img[data-src]').forEach(img => {
+    imageObserver.observe(img);
+  });
+}
+
+// Accessibility: Focus management for mobile menu
+document.getElementById('mobile-menu-btn').addEventListener('keydown', function(e) {
+  if (e.key === 'Enter' || e.key === ' ') {
+    e.preventDefault();
+    this.click();
+  }
+});
+
+// Accessibility: Escape key to close mobile menu
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') {
+    const mobileMenu = document.getElementById('mobile-menu');
+    const menuBtn = document.getElementById('mobile-menu-btn');
+    if (!mobileMenu.classList.contains('hidden')) {
+      mobileMenu.classList.add('hidden');
+      menuBtn.setAttribute('aria-expanded', 'false');
+      menuBtn.focus();
+    }
+    
+    // Also close exit popup
+    if (document.getElementById('exitPopup').classList.contains('show')) {
+      closeExitPopup();
+    }
+  }
+});
+
+// Analytics: Track form interactions (placeholder for real analytics)
+function trackEvent(eventName, properties = {}) {
+  // Replace with your analytics service (Google Analytics, Mixpanel, etc.)
+  console.log('Event:', eventName, properties);
+}
+
+// Track calculator usage
+document.getElementById('homePrice').addEventListener('change', () => {
+  trackEvent('Calculator Used', { field: 'homePrice' });
+});
+
+// Track form field interactions
+document.querySelectorAll('#leadForm input, #leadForm select, #leadForm textarea').forEach(field => {
+  field.addEventListener('focus', () => {
+    trackEvent('Form Field Focused', { field: field.name });
+  });
+});
+
+// Track CTA clicks
+document.querySelectorAll('a[href="#lead"]').forEach(link => {
+  link.addEventListener('click', () => {
+    trackEvent('CTA Clicked', { text: link.textContent.trim() });
+  });
+});
+</script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9729c78834a98d27',t:'MTc1NTc3NTYyNy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
